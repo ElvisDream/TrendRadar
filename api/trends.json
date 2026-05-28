@@ -1,345 +1,99 @@
 {
-  "generated_at": "2026-05-27T17:46:34.563188+08:00",
-  "total_titles_processed": 1114,
+  "generated_at": "2026-05-28T08:02:03.527024+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 8,
       "titles": [
         {
-          "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33237017",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            16,
-            9,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时42分 ~ 17时46分]"
-        },
-        {
-          "title": "特朗普提了一个非分要求",
-          "url": "https://news.ifeng.com/c/8tSb04uTeLk",
+          "title": "特朗普警告盟友阿曼：不守规矩会被炸飞",
+          "url": "https://news.ifeng.com/c/8tTuRYfuC5R",
           "source": "凤凰网",
           "ranks": [
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时14分 ~ 17时46分]"
-        },
-        {
-          "title": "特朗普体检后称“结果非常完美”，下个月将迎来80岁生日",
-          "url": "https://news.ifeng.com/c/8tSnrdWGnY5",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时22分 ~ 17时46分]"
-        },
-        {
-          "title": "美伊谈判关键之际，特朗普与内塔尼亚胡通话",
-          "url": "https://wallstreetcn.com/livenews/3109633",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "美伊谈判关键之际 特朗普与内塔尼亚胡通话",
-          "url": "https://flash.jin10.com/detail/20260527033724525800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "美国总统特朗普嘲讽媒体对伊朗冲突的报道，表示即使德黑兰“完全投降”，媒体仍会声称其在对美斗争中取得了“辉煌的胜利” 。",
-          "url": "https://flash.jin10.com/detail/20260527033506119800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "巴西参议员弗拉维奥·博索纳罗（Flávio Bolsonaro）：我要求美国总统特朗普将（那些）犯罪集团标榜为恐怖分子。 我告诉特朗普，如果我当选（为巴西总统），我们将达成一份贸易协议。",
-          "url": "https://wallstreetcn.com/livenews/3109667",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            23
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时26分 ~ 08时15分]"
+          "time_info": "[08时01分 ~ 08时02分]"
         },
         {
-          "title": "特朗普：美国CFTC对预测市场的专属管辖权“至关重要”",
-          "url": "https://wallstreetcn.com/livenews/3109663",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普要求多国签《亚伯拉罕协议》，专家：警惕“美式陷阱”",
+          "url": "https://news.ifeng.com/c/8tTPXgoAD0P",
+          "source": "凤凰网",
           "ranks": [
-            6,
-            27
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时26分 ~ 08时15分]"
+          "time_info": "[08时01分 ~ 08时02分]"
         },
         {
-          "title": "特朗普称与伊朗谈判进展顺利、不会签让伊获核武的协议，美官员对近期解决争端乐观",
-          "url": "https://wallstreetcn.com/articles/3773076",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时42分"
-        },
-        {
-          "title": "美国贸易代表格里尔：特朗普10%全球关税7月到期后或重新征收",
-          "url": "https://flash.jin10.com/detail/20260527055256776800",
+          "title": "美军对伊朗军事基地发动新打击！特朗普放话：不在乎中期选举，不会为了选票对伊让步",
+          "url": "https://flash.jin10.com/detail/20260528073637188800",
           "source": "金十数据",
           "ranks": [
-            10
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时26分"
+          "time_info": "08时02分"
         },
         {
-          "title": "特朗普将27日内阁会议地点改回白宫",
-          "url": "https://wallstreetcn.com/livenews/3109658",
+          "title": "美国总统特朗普：将立法，使面向未来的数字资产市场结构（监管框架）法典化。",
+          "url": "https://wallstreetcn.com/livenews/3110293",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时26分"
+          "time_info": "08时02分"
         },
         {
-          "title": "美国总统特朗普：刚刚在沃尔特·里德军事医疗中心完成了体检，所有检查结果都非常完美。",
-          "url": "https://flash.jin10.com/detail/20260527004216949800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时42分"
-        },
-        {
-          "title": "据AXIOS网站记者：消息人士透露，美国总统特朗普正在与以色列总理内塔尼亚胡通电话。",
-          "url": "https://flash.jin10.com/detail/20260527025513804800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "特朗普在白宫会见巴西大选热门挑战者弗拉维奥·博索纳罗",
-          "url": "https://wallstreetcn.com/livenews/3109655",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "特朗普：内阁会议将由戴维营改至白宫举行",
-          "url": "https://flash.jin10.com/detail/20260527052759583800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "美媒：紧要关头，特朗普拟在戴维营召开内阁会议",
-          "url": "https://wallstreetcn.com/livenews/3109620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "伊朗寻求经济纾困，但避免让特朗普宣告胜利",
-          "url": "https://flash.jin10.com/detail/20260527072115517800",
+          "title": "美国总统特朗普：很快，美国和亚美尼亚将共同启动国际和平与繁荣的特朗普路线，这将改变南高加索，并帮助我们优秀的美国能源公司获得从中亚直通美国的通道。",
+          "url": "https://flash.jin10.com/detail/20260528065553692800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时15分"
+          "time_info": "08时02分"
         },
         {
-          "title": "特朗普：CFTC对预测市场的专属管辖权“至关重要”",
-          "url": "https://flash.jin10.com/detail/20260527052521113800",
+          "title": "特朗普威胁“炸飞”阿曼：没人能控制霍尔木兹海峡，伊阿共管草案遭否",
+          "url": "https://flash.jin10.com/detail/20260528065405164800",
           "source": "金十数据",
           "ranks": [
-            18
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时26分"
+          "time_info": "08时02分"
         },
         {
-          "title": "美国总统特朗普宣称：准备在白宫举办内阁会议，推迟前往戴维营的行程。",
-          "url": "https://wallstreetcn.com/livenews/3109650",
+          "title": "特朗普政府要求在肯尼亚隔离埃博拉病毒接触人员，专家：在美国、德国治疗的效果更好",
+          "url": "https://wallstreetcn.com/livenews/3110278",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "美国总统特朗普：确保商品期货交易委员会对预测市场专属管辖权得到维护至关重要。",
-          "url": "https://flash.jin10.com/detail/20260527052251487800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "巴西参议员弗拉维奥·博尔索纳罗确认，他于当地时间周二在白宫会见了美国总统特朗普。",
-          "url": "https://flash.jin10.com/detail/20260527050312456800",
-          "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时26分"
+          "time_info": "08时02分"
         },
         {
-          "title": "美国总统特朗普：考虑到明天可能出现的恶劣天气情况，我们将在白宫举行内阁会议，并推迟前往戴维营的内阁行程。",
-          "url": "https://flash.jin10.com/detail/20260527044831585800",
+          "title": "美国智库：特朗普嘴上说不关心，但最怕共和党中期选举惨败",
+          "url": "https://flash.jin10.com/detail/20260528062011418800",
           "source": "金十数据",
           "ranks": [
-            28
+            26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "国台办回应特朗普称将和赖清德谈军售",
-          "url": "https://www.toutiao.com/trending/7643605127043399699/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "张雪 车机",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "张雪机车回复余华",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%9B%9E%E5%A4%8D%E4%BD%99%E5%8D%8E%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时14分 ~ 08时15分]"
-        },
-        {
-          "title": "张雪峰江苏省人大代表资格自然终止",
-          "url": "https://www.toutiao.com/trending/7644482588416937508/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时47分 ~ 17时46分]"
-        },
-        {
-          "title": "张雪对馆长说想拿遍世界上所有冠军",
-          "url": "https://www.toutiao.com/trending/7643301950340153398/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时14分 ~ 08时15分]"
-        },
-        {
-          "title": "馆长赞张雪拿股份分骨干：中国好老板",
-          "url": "https://www.toutiao.com/trending/7643950653937287211/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时14分 ~ 08时15分]"
-        },
-        {
-          "title": "馆长试驾张雪机车820RR顶配版",
-          "url": "https://www.toutiao.com/trending/7644201603943628826/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时14分 ~ 08时15分]"
-        },
-        {
-          "title": "网红馆长参观张雪机车连连赞叹",
-          "url": "https://www.toutiao.com/trending/7643968180314980395/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时42分"
+          "time_info": "08时02分"
         }
       ]
     },
@@ -348,80 +102,43 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "谷歌将于7月1日更新在爱尔兰的博彩和游戏政策，以符合新的监管要求。",
-          "url": "https://flash.jin10.com/detail/20260527163129223800",
+          "title": "谷歌工程师因涉嫌在Polymarket预测市场进行内幕交易遭起诉",
+          "url": "https://wallstreetcn.com/livenews/3110297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "据华尔街日报：谷歌(GOOG.O)员工因在预测市场Polymarket上进行内幕交易被起诉。",
+          "url": "https://flash.jin10.com/detail/20260528062625089800",
           "source": "金十数据",
           "ranks": [
-            3
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "张雪 车机",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "张雪机车电摩电机实现 50 千瓦顶级功率输出，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2042924043733579676",
+          "source": "知乎",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时47分 ~ 16时55分]"
-        },
-        {
-          "title": "市场消息：ELEMENTAL IMPACT与亚马逊、谷歌、Meta公司和微软共同启动数据中心创新计划。",
-          "url": "https://flash.jin10.com/detail/20260527173132501800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "华为 “韬定律”：国产芯片的DeepSeek 时刻！",
-          "url": "https://wallstreetcn.com/articles/3773150",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时14分 ~ 16时55分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "研究数学是否建议购买 chatGPT pro ？",
-          "url": "https://www.zhihu.com/question/2039945525546456777",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "多家投行下调金价预判",
-          "url": "https://www.douyin.com/hot/2513019",
-          "source": "抖音",
-          "ranks": [
-            8,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时42分 ~ 08时15分]"
+          "time_info": "[08时01分 ~ 08时02分]"
         }
       ]
     }
