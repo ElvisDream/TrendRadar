@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-06-11T13:46:43.310800+08:00",
-  "total_titles_processed": 664,
+  "generated_at": "2026-06-12T08:20:22.494710+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "发布 更新 上线 升级 新功能 开源 推出 体验",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "苹果 AI 发布史上最大更新国区却不可用，是何原因导致？",
-          "url": "https://www.zhihu.com/question/2047598353421170561",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时16分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://tecs.top/img/news.jpg"
 }
