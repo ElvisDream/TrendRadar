@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-12T08:20:22.494710+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-06-13T08:21:30.494035+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "发布 更新 上线 升级 新功能 开源 推出 体验",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国商务部长卢特尼克发函给Anthropic的CEO，阻止外国接触其先进AI（模型）。 卢特尼克认为，近日发布的Mythos 5、Fable 5都受到出口管制的限制。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3119106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时21分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://tecs.top/img/news.jpg"
 }
