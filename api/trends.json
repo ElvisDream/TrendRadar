@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-06-14T08:08:00.003477+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-15T08:10:10.512080+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "技巧 技能 教程 指南 实战 详解 提示词 Prompt 提效 工作流 干货 使用 应用",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "亚马逊之后，Meta也限制AI使用量了！当大厂都用不起Token，大模型巨头该“控制利润率”了？",
-          "url": "https://wallstreetcn.com/articles/3774595",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://tecs.top/img/news.jpg"
 }
