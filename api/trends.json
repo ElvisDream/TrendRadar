@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-06-17T08:17:29.379872+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-06-18T08:17:07.787579+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "发布 更新 上线 升级 新功能 开源 推出 体验",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "消息称蚂蚁集团正秘密测试 AI 版支付宝，新版本颠覆原有用户交互，会给用户体验和金融行业带来哪些改变？",
-          "url": "https://www.zhihu.com/question/2049548864626202351",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时17分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://tecs.top/img/news.jpg"
 }
