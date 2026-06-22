@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-06-21T08:06:59.143716+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-22T08:12:54.310321+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "发布 更新 上线 升级 新功能 开源 推出 体验",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "相比“开源模型”，“前沿模型”溢价类似“奢侈品包包”！德银：这可能导致市场重估AI",
-          "url": "https://wallstreetcn.com/articles/3775111",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://tecs.top/img/news.jpg"
 }
