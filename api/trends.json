@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-06-22T08:12:54.310321+08:00",
+  "generated_at": "2026-06-23T08:06:56.002173+08:00",
   "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "发布 更新 上线 升级 新功能 开源 推出 体验",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "米游AI女友上线,玩家有福了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "科技链从“数字”升级为“数智”，第四届链博会折射AI产业重心跃迁",
+          "url": "https://wallstreetcn.com/livenews/3123050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://tecs.top/img/news.jpg"
 }
