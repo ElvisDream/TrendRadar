@@ -1,33 +1,22 @@
 {
-  "generated_at": "2026-06-26T08:10:09.520257+08:00",
+  "generated_at": "2026-06-27T08:07:38.231109+08:00",
   "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "发布 更新 上线 升级 新功能 开源 推出 体验",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "AI机器女友发布,仿真拉满",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
           "source": "贴吧",
           "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时09分 ~ 08时10分]"
-        },
-        {
-          "title": "报道：美国政府要求OpenAI分阶段发布最新模型GPT 5.6",
-          "url": "https://wallstreetcn.com/livenews/3124869",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时10分"
+          "time_info": "08时07分"
         }
       ]
     }
