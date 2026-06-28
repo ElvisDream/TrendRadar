@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T08:07:38.231109+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-28T08:03:04.145813+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
@@ -8,15 +8,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "AI机器女友发布,仿真拉满",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
-          "source": "贴吧",
+          "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
+          "url": "https://wallstreetcn.com/articles/3775650",
+          "source": "华尔街见闻",
           "ranks": [
-            28
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
+          "appearance_count": 2,
+          "time_info": "[08时02分 ~ 08时03分]"
         }
       ]
     }
