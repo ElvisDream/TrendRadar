@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-06-28T08:03:04.145813+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-29T08:10:36.055286+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "发布 更新 上线 升级 新功能 开源 推出 体验",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
-          "url": "https://wallstreetcn.com/articles/3775650",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时02分 ~ 08时03分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://tecs.top/img/news.jpg"
 }
