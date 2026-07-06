@@ -1,338 +1,537 @@
 {
-  "generated_at": "2026-07-05T08:02:07.147371+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-06T08:06:11.251613+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "突发 事故 火灾 爆炸 地震 洪水 山洪 泥石流 暴雨 台风 强对流 预警 警报 通报 伤亡 遇难 失联 救援 抢险 坍塌",
-      "match_count": 8,
+      "match_count": 17,
       "titles": [
         {
-          "title": "巨型台风将靠近",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A8%E5%9E%8B%E5%8F%B0%E9%A3%8E%E5%B0%86%E9%9D%A0%E8%BF%91",
+          "title": "超强台风巴威冲击风王",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B6%85%E5%BC%BA%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E5%86%B2%E5%87%BB%E9%A3%8E%E7%8E%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
-        },
-        {
-          "title": "中央气象台7月5日06时继续发布强对流天气黄色预警。",
-          "url": "https://flash.jin10.com/detail/20260705060217804800",
-          "source": "金十数据",
-          "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "中央气象台7月5日06时继续发布暴雨橙色预警。",
-          "url": "https://flash.jin10.com/detail/20260705060142192800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "一家三口自驾游突遇山洪 母子失联",
-          "url": "https://www.toutiao.com/trending/7658639856092446739/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
+          "time_info": "[08时05分 ~ 08时06分]"
         },
         {
-          "title": "五预警齐发！大暴雨特大暴雨来袭",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%94%E9%A2%84%E8%AD%A6%E9%BD%90%E5%8F%91%EF%BC%81%E5%A4%A7%E6%9A%B4%E9%9B%A8%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8%E6%9D%A5%E8%A2%AD",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
-        },
-        {
-          "title": "中气爱：超强台风巴威很可能登陆",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%B0%94%E7%88%B1%EF%BC%9A%E8%B6%85%E5%BC%BA%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E5%BE%88%E5%8F%AF%E8%83%BD%E7%99%BB%E9%99%86",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
-        },
-        {
-          "title": "杭州暴雨",
-          "url": "https://s.weibo.com/weibo?q=%E6%9D%AD%E5%B7%9E%E6%9A%B4%E9%9B%A8&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
-        },
-        {
-          "title": "针对云南大理州宾川县地震 中国地震局启动四级应急响应",
-          "url": "https://wallstreetcn.com/livenews/3128942",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI 人工智能 大模型 AIGC ChatGPT Claude OpenAI DeepSeek Kimi 智谱 文心 通义 算力 芯片 机器人 人形机器人 自动驾驶 智能驾驶 机器学习 推理模型 多模态",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "卡点发布！GPT-5.6三大模型全曝，定档7月7日？",
-          "url": "https://wallstreetcn.com/articles/3776196",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
-        },
-        {
-          "title": "韩国存储扩产、Meta出租算力--野村谈“存储两大利空”",
-          "url": "https://wallstreetcn.com/articles/3776202",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
-        },
-        {
-          "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
-          "url": "https://wallstreetcn.com/livenews/3128944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "MiniMax高盛电话会：对今年10亿美元ARR充满信心，模型优势在“组织敏捷性”，与国产芯片高度集成",
-          "url": "https://wallstreetcn.com/articles/3776197",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
-        },
-        {
-          "title": "特斯拉、Meta到Anthropic，三星电子的芯片代工订单积压已达50万亿韩元",
-          "url": "https://wallstreetcn.com/articles/3776186",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
-        },
-        {
-          "title": "苹果AI功能未能引爆换机潮，瑞银调查显示用户升级意愿持续下滑",
-          "url": "https://wallstreetcn.com/articles/3776203",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
-        },
-        {
-          "title": "为什么现在 DeepSeek 快速模式豆包化？",
-          "url": "https://www.zhihu.com/question/2050992107284964141",
+          "title": "人大通报蒋方舟被举报硕士论文造假，未发现学术不端行为，暂停其导师研究生招生资格 1 年，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2057229015937546031",
           "source": "知乎",
           "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
-        },
-        {
-          "title": "iPadPro首发M7芯片",
-          "url": "https://s.weibo.com/weibo?q=%23iPadPro%E9%A6%96%E5%8F%91M7%E8%8A%AF%E7%89%87%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "民生 就业 社保 医保 医疗 教育 高考 中考 养老 住房 租房 房价 公积金 交通 地铁 公交 物价 菜价 电价 水价 燃气 食品安全",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "立体交通绘就发展新图景",
-          "url": "https://www.toutiao.com/trending/7658557262307016750/",
-          "source": "今日头条",
-          "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
+          "time_info": "[08时05分 ~ 08时06分]"
         },
         {
-          "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
-          "url": "https://wallstreetcn.com/articles/3776200",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
-        },
-        {
-          "title": "女子确诊肺癌晚期在地铁上介绍自己",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A1%AE%E8%AF%8A%E8%82%BA%E7%99%8C%E6%99%9A%E6%9C%9F%E5%9C%A8%E5%9C%B0%E9%93%81%E4%B8%8A%E4%BB%8B%E7%BB%8D%E8%87%AA%E5%B7%B1",
+          "title": "四川绵竹半小时3次地震",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E7%BB%B5%E7%AB%B9%E5%8D%8A%E5%B0%8F%E6%97%B63%E6%AC%A1%E5%9C%B0%E9%9C%87",
           "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "四川绵竹发生4.5级地震",
+          "url": "https://www.toutiao.com/trending/7658599080632860678/",
+          "source": "今日头条",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
+          "time_info": "[08时05分 ~ 08时06分]"
         },
         {
-          "title": "教育机构员工泄愤删除考生志愿致落榜",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E6%9C%BA%E6%9E%84%E5%91%98%E5%B7%A5%E6%B3%84%E6%84%A4%E5%88%A0%E9%99%A4%E8%80%83%E7%94%9F%E5%BF%97%E6%84%BF%E8%87%B4%E8%90%BD%E6%A6%9C%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
+          "title": "人大通报蒋方舟论文被指造假事件",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%A4%A7%E9%80%9A%E6%8A%A5%E8%92%8B%E6%96%B9%E8%88%9F%E8%AE%BA%E6%96%87%E8%A2%AB%E6%8C%87%E9%80%A0%E5%81%87%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "四川绵竹市连发四级以上地震",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355921&amp;topic_name=%E5%9B%9B%E5%B7%9D%E7%BB%B5%E7%AB%B9%E5%B8%82%E8%BF%9E%E5%8F%91%E5%9B%9B%E7%BA%A7%E4%BB%A5%E4%B8%8A%E5%9C%B0%E9%9C%87",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "台风“巴威”或影响苏州",
+          "url": "https://www.douyin.com/hot/2559403",
+          "source": "抖音",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
+          "time_info": "[08时05分 ~ 08时06分]"
         },
         {
-          "title": "女子确诊肺癌晚期在地铁上介绍自己",
-          "url": "https://www.toutiao.com/trending/7657714963918716947/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
-        },
-        {
-          "title": "谌贻琴在陕西调研时强调 促进养老事业和养老产业发展 持续做强做大文旅产业",
-          "url": "https://wallstreetcn.com/livenews/3128936",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "警方通报 警方提醒 网警提醒 诈骗 电诈 刑案 案件 嫌疑人 抓获 破案",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "明查｜柬埔寨电诈园区发现关押2100名中国大学生？无证据",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33504773",
-          "source": "澎湃新闻",
+          "title": "人大通报“蒋方舟论文被指造假”",
+          "url": "https://www.douyin.com/hot/2559840",
+          "source": "抖音",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
+          "time_info": "[08时05分 ~ 08时06分]"
         },
         {
-          "title": "被 LV 起诉过的除了茉莉奶白还有鸭血粉丝店，店家回应案件已判，为什么行业跨度这么大也会有冲突？",
-          "url": "https://www.zhihu.com/question/2056495076205748461",
+          "title": "王力宏演唱会摔倒面部、耳朵受伤，缝了 39 针，工作室回应是威亚操作不当，如何避免类似事故再发生？",
+          "url": "https://www.zhihu.com/question/2056836082835121433",
           "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "四川绵竹发生4.5级地震",
+          "url": "https://www.douyin.com/hot/2559911",
+          "source": "抖音",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体 芯片 算力 数据中心 通信 5G 新能源 光伏 储能 电动车",
-      "match_count": 2,
-      "titles": [
+          "time_info": "[08时05分 ~ 08时06分]"
+        },
         {
-          "title": "小区2600辆电动车迁往地面 业主心烦",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%8C%BA2600%E8%BE%86%E7%94%B5%E5%8A%A8%E8%BD%A6%E8%BF%81%E5%BE%80%E5%9C%B0%E9%9D%A2+%E4%B8%9A%E4%B8%BB%E5%BF%83%E7%83%A6",
-          "source": "百度热搜",
+          "title": "陕西临渭公安通报“未成年人在电梯内被掌掴”：依法处理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33521058",
+          "source": "澎湃新闻",
           "ranks": [
-            27
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
+          "time_info": "[08时05分 ~ 08时06分]"
         },
         {
-          "title": "明阳包头威俊150万千瓦独立储能电站500千伏汇集站正式投运",
-          "url": "https://wallstreetcn.com/livenews/3128925",
+          "title": "超级暴雨来了",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B6%85%E7%BA%A7%E6%9A%B4%E9%9B%A8%E6%9D%A5%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "委内瑞拉地震死亡人数升至3342人",
+          "url": "https://wallstreetcn.com/livenews/3129021",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时02分"
+          "time_info": "08时06分"
+        },
+        {
+          "title": "广西柳州各城区暴雨预警信号提升为红色",
+          "url": "https://wallstreetcn.com/livenews/3129026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "美军暂停搜寻在阿拉伯海因直升机事故失踪的士兵",
+          "url": "https://wallstreetcn.com/livenews/3129029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "乌克兰内政部长顾问：基辅在10分钟内发生了大约15次爆炸。空袭警报仍在继续。可能会有巡航导弹和更多弹道导弹袭击。",
+          "url": "https://flash.jin10.com/detail/20260706065653016800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "乌克兰内政部长顾问：乌克兰首都基辅目前遭到俄罗斯多轮弹道导弹打击，基辅各地传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260706064446063800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
         }
       ]
     },
     {
-      "keyword_group": "国务院 发改委 财政部 央行 教育部 卫健委通报 政策发布 新规 通知",
-      "match_count": 1,
+      "keyword_group": "AI 人工智能 大模型 AIGC ChatGPT Claude OpenAI DeepSeek Kimi 智谱 文心 通义 算力 芯片 机器人 人形机器人 自动驾驶 智能驾驶 机器学习 推理模型 多模态",
+      "match_count": 7,
       "titles": [
         {
-          "title": "万亿逆回购来了！央行结束缩量操作 精准对冲7月资金到期压力",
-          "url": "https://www.cls.cn/detail/2416860",
-          "source": "财联社热门",
+          "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
+          "url": "https://wallstreetcn.com/articles/3776219",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
+          "url": "https://wallstreetcn.com/articles/3776218",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "下周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
+          "url": "https://wallstreetcn.com/articles/3776130",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
+          "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "有业绩支撑的非AI板块修复在即？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2417353",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "智能体下线,AI女友凉了？",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
+          "source": "贴吧",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "2026 中国（南京）具身智能机器人产业展将于7月10-12日举行",
+          "url": "https://wallstreetcn.com/livenews/3129014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "2026中国互联网大会将举办，聚焦AI产业化落地、算力互联互通等核心议题",
+          "url": "https://wallstreetcn.com/livenews/3129011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "民生 就业 社保 医保 医疗 教育 高考 中考 养老 住房 租房 房价 公积金 交通 地铁 公交 物价 菜价 电价 水价 燃气 食品安全",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "在重庆坐个地铁也太难了",
+          "url": "https://www.douyin.com/hot/2558851",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "寒门女孩高考 699 分报考清华却被网暴，劝学生别沉迷手机为何引来几十万点赞的负面评论？",
+          "url": "https://www.zhihu.com/question/2056771003376722999",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "汕头城乡居民医保每年交1100？谣言",
+          "url": "https://www.toutiao.com/trending/7657413753150980132/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "教育机构员工泄愤删除考生志愿致落榜，仅获刑 8 个月，刑期是否过轻？考生被改写的人生谁来赔偿？",
+          "url": "https://www.zhihu.com/question/2057047195979702923",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "张国清在新疆调研时强调，强化产业赋能，突出就业导向，提升中央企业援疆综合效益",
+          "url": "https://wallstreetcn.com/livenews/3129007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "卫健委 疾控 传染病 流感 诺如 手足口 疫情通报 药品集采 医改 医院",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "老人看牙遭全口拔光 医院被顶格处罚",
+          "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E7%9C%8B%E7%89%99%E9%81%AD%E5%85%A8%E5%8F%A3%E6%8B%94%E5%85%89+%E5%8C%BB%E9%99%A2%E8%A2%AB%E9%A1%B6%E6%A0%BC%E5%A4%84%E7%BD%9A",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "老人看牙遭全口拔光 医院被顶格处罚",
+          "url": "https://www.toutiao.com/trending/7659046045871246894/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "专家号抢不到？上海多家三甲医院探索“候补挂号”服务",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33521118",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "心梗老人看牙被全口拔光，医院拿走手机刷光 18800 元还欠 6200 元，医院做法存在哪些违规或失当之处？",
+          "url": "https://www.zhihu.com/question/2056861703225042408",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国务院 发改委 财政部 央行 教育部 卫健委通报 政策发布 新规 通知",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "周末要闻汇总：A股交易新规，明起施行；万亿逆回购来了",
+          "url": "https://www.cls.cn/detail/2417296",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "【早报】A股交易新规，今起正式施行；多家A股公司，业绩大幅预增；哈兰德双响，挪威2-1巴西",
+          "url": "https://www.cls.cn/detail/2417464",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "韩国央行称，将密切关注韩元24小时交易的影响及走势。",
+          "url": "https://wallstreetcn.com/livenews/3129043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "A股交易新规今起施行，券商配套更新风险揭示书",
+          "url": "https://wallstreetcn.com/livenews/3129031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片 算力 数据中心 通信 5G 新能源 光伏 储能 电动车",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "韩国政府：拟使用半导体税收红利设立“未来应对基金”，规模最高100万亿韩元",
+          "url": "https://wallstreetcn.com/articles/3776221",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "金十数据中心工具",
+          "url": "https://flash.jin10.com/detail/20260706075146389800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "科技部部长阴和俊：加快新能源、新材料、航空航天、低空经济等战略性新兴产业集群发展",
+          "url": "https://flash.jin10.com/detail/20260706075143937800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "韩国拟设“未来应对基金”，以半导体税收支持未来增长",
+          "url": "https://wallstreetcn.com/livenews/3129027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "保供稳价 猪肉价格 粮食 粮价 油价 菜价上涨 食品抽检 市场监管 食品安全通报",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "英法高调宣布保障霍尔木兹航行自由，伊朗强硬警告，国际油价暗盘拉升，中东局势会再度升级吗？",
+          "url": "https://www.zhihu.com/question/2056886502731297310",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "国际油价暴跌 华尔街过剩警告四起",
+          "url": "https://www.toutiao.com/trending/7659056099097579027/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "警方通报 警方提醒 网警提醒 诈骗 电诈 刑案 案件 嫌疑人 抓获 破案",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "女子签“非全日制”用工合同被辞退后索赔失败上诉，实际用工情况成案件焦点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33518913",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
         }
       ]
     }
