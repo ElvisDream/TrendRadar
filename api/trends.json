@@ -1,668 +1,893 @@
 {
-  "generated_at": "2026-07-11T07:58:47.019153+08:00",
+  "generated_at": "2026-07-12T07:55:33.876801+08:00",
   "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "突发 事故 火灾 爆炸 地震 洪水 山洪 泥石流 暴雨 台风 强对流 预警 警报 通报 伤亡 遇难 失联 救援 抢险 坍塌",
-      "match_count": 35,
+      "match_count": 58,
       "titles": [
         {
-          "title": "“巴威”再加强为强台风级",
-          "url": "https://www.toutiao.com/trending/7660768642707066422/",
-          "source": "今日头条",
+          "title": "三预警齐发！“巴威”再度增强为强台风级，最新路径公布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33564318",
+          "source": "澎湃新闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "07时55分"
         },
         {
-          "title": "巴威再度增强为强台风级 最新路径",
-          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%A8%81%E5%86%8D%E5%BA%A6%E5%A2%9E%E5%BC%BA%E4%B8%BA%E5%BC%BA%E5%8F%B0%E9%A3%8E%E7%BA%A7+%E6%9C%80%E6%96%B0%E8%B7%AF%E5%BE%84",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "台风巴威路径北调",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E8%B7%AF%E5%BE%84%E5%8C%97%E8%B0%83",
+          "title": "特大暴雨来了",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8%E6%9D%A5%E4%BA%86",
           "source": "bilibili 热搜",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "07时55分"
         },
         {
-          "title": "巴威台风眼消失",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%A8%81%E5%8F%B0%E9%A3%8E%E7%9C%BC%E6%B6%88%E5%A4%B1%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
+          "title": "中央气象台7月12日06时发布台风黄色预警",
+          "url": "https://flash.jin10.com/detail/20260712060507022800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "07时55分"
+        },
+        {
+          "title": "台风巴威在浙江乐清二次登陆",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E5%9C%A8%E6%B5%99%E6%B1%9F%E4%B9%90%E6%B8%85%E4%BA%8C%E6%AC%A1%E7%99%BB%E9%99%86",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "现场直击台风巴威登陆浙江",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%B0%E5%9C%BA%E7%9B%B4%E5%87%BB%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E7%99%BB%E9%99%86%E6%B5%99%E6%B1%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "委内瑞拉地震死亡人数升至4333人",
+          "url": "https://wallstreetcn.com/livenews/3132367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "台风巴威在浙江登陆",
+          "url": "https://www.douyin.com/hot/2567698",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "各地全力以赴防范台风巴威",
+          "url": "https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4%E9%98%B2%E8%8C%83%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "台风巴威在浙江台州玉环登陆，中心附近最大风力 13 级，你家那里怎么样？",
+          "url": "https://www.zhihu.com/question/2058816691778184465",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "台风“巴威”在浙江乐清二次登陆",
+          "url": "https://www.toutiao.com/trending/7661306572647173682/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         },
         {
           "title": "台风巴威实时路径",
-          "url": "https://www.douyin.com/hot/2564062",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "晋江鞋厂火灾致 28 死，员工千人却仅 12 人参保，这种乱象背后存在哪些问题？",
-          "url": "https://www.zhihu.com/question/2058823246980571934",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "台风来袭！请收好这份法律小贴士",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E6%9D%A5%E8%A2%AD%EF%BC%81%E8%AF%B7%E6%94%B6%E5%A5%BD%E8%BF%99%E4%BB%BD%E6%B3%95%E5%BE%8B%E5%B0%8F%E8%B4%B4%E5%A3%AB",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E5%AE%9E%E6%97%B6%E8%B7%AF%E5%BE%84",
           "source": "百度热搜",
           "ranks": [
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "07时55分"
         },
         {
-          "title": "委内瑞拉强震遇难人数升至4118人",
-          "url": "https://wallstreetcn.com/livenews/3132266",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "伊朗媒体称，伊朗西部小型炼油厂火灾已得到控制",
-          "url": "https://wallstreetcn.com/livenews/3132265",
+          "title": "台风“美莎克”残余环流已结束 广西调整防汛防台风应急响应",
+          "url": "https://wallstreetcn.com/livenews/3132364",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "07时55分"
         },
         {
-          "title": "巴威再增强为强台风级",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%A8%81%E5%86%8D%E5%A2%9E%E5%BC%BA%E4%B8%BA%E5%BC%BA%E5%8F%B0%E9%A3%8E%E7%BA%A7%23&t=31&band_rank=4&Refer=top",
+          "title": "台风巴威二次登陆",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E4%BA%8C%E6%AC%A1%E7%99%BB%E9%99%86%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "07时55分"
         },
         {
-          "title": "涉数据造假、论文买卖等，28起医学论文造假违规案例被通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33558076",
-          "source": "澎湃新闻",
+          "title": "记者直播时手机被台风吹走",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E7%9B%B4%E6%92%AD%E6%97%B6%E6%89%8B%E6%9C%BA%E8%A2%AB%E5%8F%B0%E9%A3%8E%E5%90%B9%E8%B5%B0",
+          "source": "百度热搜",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "07时55分"
         },
         {
-          "title": "巴威减弱由强台风级改为台风级，可能不会擦过台湾岛，预计 12 日登陆浙江福建，当地情况如何？可做哪些准备？",
-          "url": "https://www.zhihu.com/question/2058543803955241209",
-          "source": "知乎",
+          "title": "中国地震台网正式测定：07月12日05时09分在内蒙古呼伦贝尔市阿荣旗发生3.8级地震，震源深度10千米。",
+          "url": "https://flash.jin10.com/detail/20260712052001822800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "07时55分"
         },
         {
-          "title": "台风巴威路径突变,威胁减弱",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356078&amp;topic_name=%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E8%B7%AF%E5%BE%84%E7%AA%81%E5%8F%98%2C%E5%A8%81%E8%83%81%E5%87%8F%E5%BC%B1",
-          "source": "贴吧",
+          "title": "巨型台风“巴威”正面登陆、贯穿全省，浙江省长逐一连线7市县",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33565520",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "朝鲜通报以朴喜哲为首的特大腐败行为",
+          "url": "https://news.ifeng.com/c/8ufbPECS3xm",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "台风巴威已登陆",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E5%B7%B2%E7%99%BB%E9%99%86%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "直击台风登陆：风大雨急树被连根拔起",
+          "url": "https://www.toutiao.com/trending/7661410896509406726/",
+          "source": "今日头条",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "07时55分"
         },
         {
-          "title": "台风「巴威」再度增强为强台风级，最新路径将正面袭击浙江福建，登陆时风力降雨会有多大？要做好哪些应对？",
-          "url": "https://www.zhihu.com/question/2058838727388914671",
-          "source": "知乎",
+          "title": "伊朗议长：致阿里·哈梅内伊遇难的责任方必将受到惩罚",
+          "url": "https://wallstreetcn.com/livenews/3132361",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "台风巴威位置",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E4%BD%8D%E7%BD%AE%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "台风巴威逼近浙江",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E9%80%BC%E8%BF%91%E6%B5%99%E6%B1%9F%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "台风前夜市连夜拆除所有外摆摊位",
-          "url": "https://www.toutiao.com/trending/7659960667612659731/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "台风“巴威”预计12日凌晨登陆",
-          "url": "https://www.cls.cn/detail/2423287",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "台风巴威逼近涌浪已出现",
-          "url": "https://www.douyin.com/hot/2565981",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "洪水肆虐养猪场,老板血亏500万",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356065&amp;topic_name=%E6%B4%AA%E6%B0%B4%E8%82%86%E8%99%90%E5%85%BB%E7%8C%AA%E5%9C%BA%2C%E8%80%81%E6%9D%BF%E8%A1%80%E4%BA%8F500%E4%B8%87",
-          "source": "贴吧",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "广西60岁老人被洪水卷来的眼镜蛇咬伤后去世，全村仍在排雷式搜蛇",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33555877",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "全国多地市民囤物资应对台风巴威",
-          "url": "https://www.toutiao.com/trending/7660785276261220358/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "台风“巴威”已进入我国24小时警戒线，最新降雨趋势研判",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33559515",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "台风天超市被剩下的方便面",
-          "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E%E5%A4%A9%E8%B6%85%E5%B8%82%E8%A2%AB%E5%89%A9%E4%B8%8B%E7%9A%84%E6%96%B9%E4%BE%BF%E9%9D%A2&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "台风到来前我在做什么",
-          "url": "https://www.douyin.com/hot/2566303",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "上海健康播报｜“巴威”来袭，台风天这些注意事项要了解",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33556698",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "广西救援无人机炸机半天修好",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E6%95%91%E6%8F%B4%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%82%B8%E6%9C%BA%E5%8D%8A%E5%A4%A9%E4%BF%AE%E5%A5%BD%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "应对台风“巴威”登陆，浙江、福建多地严阵以待",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33557962",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "台风天要给玻璃贴米字胶带吗",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8F%B0%E9%A3%8E%E5%A4%A9%E8%A6%81%E7%BB%99%E7%8E%BB%E7%92%83%E8%B4%B4%E7%B1%B3%E5%AD%97%E8%83%B6%E5%B8%A6%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "火灾鞋厂楼顶蓄水池打捞出多具遗体",
-          "url": "https://www.baidu.com/s?wd=%E7%81%AB%E7%81%BE%E9%9E%8B%E5%8E%82%E6%A5%BC%E9%A1%B6%E8%93%84%E6%B0%B4%E6%B1%A0%E6%89%93%E6%8D%9E%E5%87%BA%E5%A4%9A%E5%85%B7%E9%81%97%E4%BD%93",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "福建晋江鞋厂火灾起火位置初步确定",
-          "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E6%99%8B%E6%B1%9F%E9%9E%8B%E5%8E%82%E7%81%AB%E7%81%BE%E8%B5%B7%E7%81%AB%E4%BD%8D%E7%BD%AE%E5%88%9D%E6%AD%A5%E7%A1%AE%E5%AE%9A",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "台风巴威的威胁仍存在",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E7%9A%84%E5%A8%81%E8%83%81%E4%BB%8D%E5%AD%98%E5%9C%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "面对十七级台风怎么办",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9D%A2%E5%AF%B9%E5%8D%81%E4%B8%83%E7%BA%A7%E5%8F%B0%E9%A3%8E%E6%80%8E%E4%B9%88%E5%8A%9E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "福建火灾发生时鞋厂内共有239人",
-          "url": "https://www.toutiao.com/trending/7660401669062020671/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "07时55分"
         },
         {
           "title": "为什么不能用炸弹摧毁台风",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%83%BD%E7%94%A8%E7%82%B8%E5%BC%B9%E6%91%A7%E6%AF%81%E5%8F%B0%E9%A3%8E",
-          "source": "bilibili 热搜",
+          "url": "https://www.toutiao.com/trending/7661051506922618916/",
+          "source": "今日头条",
           "ranks": [
-            29
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI 人工智能 大模型 AIGC ChatGPT Claude OpenAI DeepSeek Kimi 智谱 文心 通义 算力 芯片 机器人 人形机器人 自动驾驶 智能驾驶 机器学习 推理模型 多模态",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "国常会：要系统推进数字中国建设，加快新一代通信网、算力网建设，全面赋能经济社会发展",
-          "url": "https://www.cls.cn/detail/2423220",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "07时55分"
         },
         {
-          "title": "OpenAI回应苹果公司的诉讼：我们对其他公司的商业秘密没兴趣。 我们仍然侧重于打造创新科技。",
-          "url": "https://wallstreetcn.com/livenews/3132268",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
-          "url": "https://wallstreetcn.com/articles/3776523",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "午后齐跌，创业板跌超4%，商业航天掀涨停潮，芯片半导体下挫，港股AI模型“双雄”暴跌",
-          "url": "https://wallstreetcn.com/articles/3776629",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "给朋友拍照时就这样变身机器人",
-          "url": "https://www.douyin.com/hot/2566457",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
-          "url": "https://wallstreetcn.com/articles/3776651",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
-          "url": "https://wallstreetcn.com/articles/3776680",
-          "source": "华尔街见闻",
+          "title": "台风天宁愿饿着也不买的泡面",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356099&amp;topic_name=%E5%8F%B0%E9%A3%8E%E5%A4%A9%E5%AE%81%E6%84%BF%E9%A5%BF%E7%9D%80%E4%B9%9F%E4%B8%8D%E4%B9%B0%E7%9A%84%E6%B3%A1%E9%9D%A2",
+          "source": "贴吧",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "07时55分"
         },
         {
-          "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2423243",
-          "source": "财联社热门",
+          "title": "台风“巴威”在浙江玉环登陆",
+          "url": "https://www.toutiao.com/trending/7660722103989043206/",
+          "source": "今日头条",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "07时55分"
         },
         {
-          "title": "【每日收评】创业板指放量跌超4%，半导体、AI硬件股集体调整，创新药板块逆势活跃",
-          "url": "https://www.cls.cn/detail/2422921",
+          "title": "“巴威”加强为强台风级 最新路径公布",
+          "url": "https://www.cls.cn/detail/2423445",
           "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "07时55分"
         },
         {
-          "title": "苹果起诉OpenAI窃取其顶级商业机密，引发重磅诉讼",
-          "url": "https://wallstreetcn.com/livenews/3132249",
-          "source": "华尔街见闻-快讯",
+          "title": "河南发布防范台风巴威安全提醒",
+          "url": "https://www.douyin.com/hot/2566809",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "长沙通报「体育局干部占车位事件」，彭某某被停职，纪检监察机关已对相关问题核实处理，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2059327392334745679",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "探访福建鞋厂火灾现场：栅栏阻挡逃生、多次被要求整改",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33567513",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "直播丨台风“巴威”，威力不减！澎湃新闻多路“追风小队”直击抗台防汛第一线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33557236",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "台风巴威减弱为强热带风暴",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E5%87%8F%E5%BC%B1%E4%B8%BA%E5%BC%BA%E7%83%AD%E5%B8%A6%E9%A3%8E%E6%9A%B4%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "台风“巴威”在浙江玉环登陆",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33568188",
+          "source": "澎湃新闻",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "07时55分"
         },
         {
-          "title": "苹果起诉OpenAI涉嫌窃取商业机密",
-          "url": "https://flash.jin10.com/detail/20260711044802586800",
+          "title": "上海台风",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E5%8F%B0%E9%A3%8E&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "直击台风巴威前的台湾街头",
+          "url": "https://www.douyin.com/hot/2566685",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "台风“巴威”在浙江乐清再次登陆",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33568316",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "三预警齐发 巴威最新路径公布",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%89%E9%A2%84%E8%AD%A6%E9%BD%90%E5%8F%91+%E5%B7%B4%E5%A8%81%E6%9C%80%E6%96%B0%E8%B7%AF%E5%BE%84%E5%85%AC%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "最高级别！中央气象台时隔两年再发暴雨红色预警",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33565007",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "委内瑞拉地震死亡人数升至4333人",
+          "url": "https://flash.jin10.com/detail/20260712023216590800",
           "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "浙江惊现“台风霞”粉紫色天空",
+          "url": "https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E6%83%8A%E7%8E%B0%E2%80%9C%E5%8F%B0%E9%A3%8E%E9%9C%9E%E2%80%9D%E7%B2%89%E7%B4%AB%E8%89%B2%E5%A4%A9%E7%A9%BA",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "台风“巴威”将至，申城“菜篮子”量足价稳吗？记者实地探访",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33564500",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "央视记者探访福建鞋厂火灾现场",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E8%AE%B0%E8%80%85%E6%8E%A2%E8%AE%BF%E7%A6%8F%E5%BB%BA%E9%9E%8B%E5%8E%82%E7%81%AB%E7%81%BE%E7%8E%B0%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "台风“巴威”正快速逼近，浙江多地发布《告全体市民书》",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33565139",
+          "source": "澎湃新闻",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "07时55分"
         },
         {
-          "title": "大模型算法是否会催生一大批不懂业务的算法工程师，热度过后他们将何去何从？",
-          "url": "https://www.zhihu.com/question/7707791899",
-          "source": "知乎",
+          "title": "中国地震台网正式测定：07月11日19时14分在云南大理州洱源县（北纬26.12度，东经99.86度）发生3.3级地震，震源深度11千米。",
+          "url": "https://wallstreetcn.com/livenews/3132349",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "07时55分"
         },
         {
-          "title": "市场消息：法院文件显示，苹果(AAPL.O)起诉OpenAI，指控其挪用商业机密。",
-          "url": "https://flash.jin10.com/detail/20260711042558788800",
-          "source": "金十数据",
+          "title": "台风“巴威”将贯穿浙江，省内多地党政主官作紧急动员电视讲话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33566906",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "南大西洋南桑威奇群岛发生6.4级地震",
+          "url": "https://wallstreetcn.com/livenews/3132347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "记者直播时手机被台风“巴威”吹走",
+          "url": "https://www.toutiao.com/trending/7660783420004990982/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "今年首个全国性暴雨红色预警来了",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E9%A6%96%E4%B8%AA%E5%85%A8%E5%9B%BD%E6%80%A7%E6%9A%B4%E9%9B%A8%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%E6%9D%A5%E4%BA%86%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "朝鲜通报特大腐败犯罪",
+          "url": "https://www.toutiao.com/trending/7661109323968282666/",
+          "source": "今日头条",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "07时55分"
         },
         {
-          "title": "售价十几万的仿生机器人有何卖点",
-          "url": "https://www.toutiao.com/trending/7660876752276688438/",
-          "source": "今日头条",
+          "title": "台风巴威登陆现场画面",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E7%99%BB%E9%99%86%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2",
+          "source": "百度热搜",
           "ranks": [
-            25
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "民生 就业 社保 医保 医疗 教育 高考 中考 养老 住房 租房 房价 公积金 交通 地铁 公交 物价 菜价 电价 水价 燃气 食品安全",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "稻城亚丁景区：将免收3个月门票，降低交通服务费、对社会车辆实施预约限流通行",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33558643",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "07时55分"
         },
         {
-          "title": "伊朗外交部发言人巴盖伊：伊朗决心确保霍尔木兹海峡海上交通安全，并继续与阿曼开展合作。",
-          "url": "https://flash.jin10.com/detail/20260711042255340800",
+          "title": "据伊通社（IRNA）：报道称伊拉克北部的埃尔比勒和苏莱曼尼亚地区传出了爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260712004734012800",
           "source": "金十数据",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "07时55分"
         },
         {
-          "title": "交通运输部：坚决拥护党中央的决定",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%A4%E9%80%9A%E8%BF%90%E8%BE%93%E9%83%A8%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%8B%A5%E6%8A%A4%E5%85%9A%E4%B8%AD%E5%A4%AE%E7%9A%84%E5%86%B3%E5%AE%9A",
+          "title": "减重60斤的台风记者被巴威吹得摇晃",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%87%8F%E9%87%8D60%E6%96%A4%E7%9A%84%E5%8F%B0%E9%A3%8E%E8%AE%B0%E8%80%85%E8%A2%AB%E5%B7%B4%E5%A8%81%E5%90%B9%E5%BE%97%E6%91%87%E6%99%83%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "财政部、应急管理部紧急预拨4000万元中央自然灾害救灾资金，支持福建、浙江做好“巴威”台风应急抢险救灾工作。",
+          "url": "https://wallstreetcn.com/livenews/3132341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "洪水肆虐养猪场,老板血亏500万",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356065&amp;topic_name=%E6%B4%AA%E6%B0%B4%E8%82%86%E8%99%90%E5%85%BB%E7%8C%AA%E5%9C%BA%2C%E8%80%81%E6%9D%BF%E8%A1%80%E4%BA%8F500%E4%B8%87",
+          "source": "贴吧",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "救援期间冒雨吃饭的消防员找到了",
+          "url": "https://www.baidu.com/s?wd=%E6%95%91%E6%8F%B4%E6%9C%9F%E9%97%B4%E5%86%92%E9%9B%A8%E5%90%83%E9%A5%AD%E7%9A%84%E6%B6%88%E9%98%B2%E5%91%98%E6%89%BE%E5%88%B0%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "“巴威”即将登陆，国家海洋预报台继续发布海浪红色预警、风暴潮橙色预警。",
+          "url": "https://wallstreetcn.com/livenews/3132339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "台风天里为何暑假也要发停课通知",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%A4%A9%E9%87%8C%E4%B8%BA%E4%BD%95%E6%9A%91%E5%81%87%E4%B9%9F%E8%A6%81%E5%8F%91%E5%81%9C%E8%AF%BE%E9%80%9A%E7%9F%A5",
           "source": "百度热搜",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "07时55分"
+        },
+        {
+          "title": "内蒙古启动防汛四级及暴雨Ⅳ级应急响应",
+          "url": "https://wallstreetcn.com/livenews/3132338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "台风",
+          "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "台北暴雨：雨伞撑不住 雨衣被吹开",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E5%8C%97%E6%9A%B4%E9%9B%A8%EF%BC%9A%E9%9B%A8%E4%BC%9E%E6%92%91%E4%B8%8D%E4%BD%8F+%E9%9B%A8%E8%A1%A3%E8%A2%AB%E5%90%B9%E5%BC%80",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "台风“巴威”或将提前登陆，中央气象台继续发布台风橙色预警",
+          "url": "https://wallstreetcn.com/livenews/3132337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         }
       ]
     },
     {
-      "keyword_group": "国务院 发改委 财政部 央行 教育部 卫健委通报 政策发布 新规 通知",
-      "match_count": 2,
+      "keyword_group": "AI 人工智能 大模型 AIGC ChatGPT Claude OpenAI DeepSeek Kimi 智谱 文心 通义 算力 芯片 机器人 人形机器人 自动驾驶 智能驾驶 机器学习 推理模型 多模态",
+      "match_count": 10,
       "titles": [
         {
-          "title": "国务院原则同意《中医药振兴发展“十五五”规划》",
-          "url": "https://www.cls.cn/detail/2422955",
+          "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
+          "url": "https://www.cls.cn/detail/2423546",
           "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
+          "url": "https://www.cls.cn/detail/2422869",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "重回AI一线？Meta单周大涨15%",
+          "url": "https://wallstreetcn.com/articles/3776692",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "智谱创始人唐杰发布内部信：将开启 Touch High（摸高）计划，“不登顶，就是失败”",
+          "url": "https://wallstreetcn.com/articles/3776707",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2423243",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "无人机吊起2人神图系AI合成",
+          "url": "https://www.toutiao.com/trending/7660829419656888339/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "Meta AI生图功能惹争议 引发侵犯肖像权等担忧后已被下线",
+          "url": "https://flash.jin10.com/detail/20260712032711538800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "07时55分"
         },
         {
-          "title": "美国国务院：美国国务卿鲁比奥与沙特外交大臣费萨尔通话。",
-          "url": "https://flash.jin10.com/detail/20260711044555579800",
-          "source": "金十数据",
+          "title": "存储芯片股过去数周跌超20% 底层逻辑面临重估",
+          "url": "https://wallstreetcn.com/livenews/3132353",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体 芯片 算力 数据中心 通信 5G 新能源 光伏 储能 电动车",
-      "match_count": 2,
-      "titles": [
+          "time_info": "07时55分"
+        },
         {
-          "title": "周五（7月10日），美股行业ETF普遍上涨，日常消费品ETF收涨超1.1%，银行业ETF、半导体ETF至少涨0.54%，科技行业ETF、全球科技股指数ETF、网络股指数ETF涨约0.2%，全球航空业ETF跌0.99%，生物科技指数ETF跌2.68%。 2026年迄今，半导体ETF累涨69.67%，全球科技股指数ETF累涨34.19%，科技行业ETF、能源业ETF至少涨24.89%，可选消费ETF则跌1.42%。",
-          "url": "https://wallstreetcn.com/livenews/3132246",
+          "title": "DeepSeek V4 正式版将于 7 月中旬上线，你有什么期待？",
+          "url": "https://www.zhihu.com/question/2055029429290771542",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "智谱创始人唐杰发布内部信：将开启 Touch High（摸高）计划，“不登顶，就是失败”",
+          "url": "https://wallstreetcn.com/livenews/3132350",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "纳指科技股指数收涨将近0.7%，本周半导体指数涨2.7%",
-          "url": "https://wallstreetcn.com/livenews/3132238",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "07时55分"
         }
       ]
     },
     {
-      "keyword_group": "国际热点 冲突升级 停火谈判 外交部回应 联合国 地缘冲突 边境局势 制裁 军演",
-      "match_count": 1,
+      "keyword_group": "民生 就业 社保 医保 医疗 教育 高考 中考 养老 住房 租房 房价 公积金 交通 地铁 公交 物价 菜价 电价 水价 燃气 食品安全",
+      "match_count": 8,
       "titles": [
         {
-          "title": "伊朗外交部发言人巴盖伊：伊朗不会允许对遭美国和以色列袭击受损的设施进行核查，《联合国安理会第2231号决议》实际上已失去法律效力。",
-          "url": "https://flash.jin10.com/detail/20260711043020224800",
+          "title": "两党住房法案未经特朗普签署自动生效",
+          "url": "https://flash.jin10.com/detail/20260712054924358800",
           "source": "金十数据",
           "ranks": [
-            21
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "07时55分"
+        },
+        {
+          "title": "“先免妈、再上位” ：奥精医疗内斗上演连续剧 上市首任董事长“回董”被董事会拦下",
+          "url": "https://www.cls.cn/detail/2423530",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：至少到目前为止，我相当确信，AI总体上是在创造就业岗位，而不是减少就业。这与我此前的预期并不一致。虽然我没有其他人那么悲观，但我原本认为，当AI发展到如今这样的能力水平时，应该已经对就业市场产生一定影响了。当然，这一趋势可能会继续下去。",
+          "url": "https://flash.jin10.com/detail/20260712043502920800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "教育部：“教师全面硕士化”系谣言",
+          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E2%80%9C%E6%95%99%E5%B8%88%E5%85%A8%E9%9D%A2%E7%A1%95%E5%A3%AB%E5%8C%96%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "受台风“巴威”影响，7月12日6时起杭州地铁全线网停运",
+          "url": "https://wallstreetcn.com/livenews/3132355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "家长投诉孩子期末考试无分数，只有考试等级，教育部称减负不是剥夺家长知分权，学校该如何解决家长这一诉求？",
+          "url": "https://www.zhihu.com/question/2058964046766945142",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "据CNN：消息人士称，就霍尔木兹海峡航运路线，阿曼提出通过两个独立控制的航道管理海峡的交通；该提议尚未最终敲定。",
+          "url": "https://flash.jin10.com/detail/20260712025753094800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "浙江台州262名干部进驻养老机构防台",
+          "url": "https://www.toutiao.com/trending/7661253768277393471/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "卫健委 疾控 传染病 流感 诺如 手足口 疫情通报 药品集采 医改 医院",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "手麻脚麻真的要赶紧进医院",
+          "url": "https://s.weibo.com/weibo?q=%E6%89%8B%E9%BA%BB%E8%84%9A%E9%BA%BB%E7%9C%9F%E7%9A%84%E8%A6%81%E8%B5%B6%E7%B4%A7%E8%BF%9B%E5%8C%BB%E9%99%A2&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国务院 发改委 财政部 央行 教育部 卫健委通报 政策发布 新规 通知",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国驻以色列大使：以色列已通知我们有关伊朗策划刺杀美国总统一事。伊朗的威胁并不新鲜，其行为也没有改变。我们没有看到伊朗存在温和派的真实证据。",
+          "url": "https://flash.jin10.com/detail/20260712021317281800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         }
       ]
     }
