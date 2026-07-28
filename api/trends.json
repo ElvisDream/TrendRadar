@@ -1,623 +1,414 @@
 {
-  "generated_at": "2026-07-27T07:59:53.857918+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-28T08:04:16.699590+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "突发 事故 火灾 爆炸 地震 洪水 山洪 泥石流 暴雨 台风 强对流 预警 警报 通报 伤亡 遇难 失联 救援 抢险 坍塌",
-      "match_count": 30,
+      "keyword_group": "AI 人工智能 大模型 AIGC ChatGPT Claude OpenAI DeepSeek Kimi 智谱 文心 通义 算力 芯片 机器人 人形机器人 自动驾驶 智能驾驶 机器学习 推理模型 多模态",
+      "match_count": 21,
       "titles": [
         {
-          "title": "重庆山体崩塌救援发现中巴车残骸",
-          "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E6%95%91%E6%8F%B4%E5%8F%91%E7%8E%B0%E4%B8%AD%E5%B7%B4%E8%BD%A6%E6%AE%8B%E9%AA%B8",
-          "source": "百度热搜",
+          "title": "美股迎芯片风暴 苹果重返市值第一",
+          "url": "https://www.toutiao.com/trending/7667348037127114246/",
+          "source": "今日头条",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时59分"
+          "time_info": "08时04分"
         },
         {
-          "title": "甘肃省委书记和省长赶赴山洪现场",
-          "url": "https://www.toutiao.com/trending/7666680577428979748/",
-          "source": "今日头条",
+          "title": "AI忧虑盖过油价下跌，纳指承压，半导体指数一度跌超5%，中概股逆市收涨",
+          "url": "https://wallstreetcn.com/articles/3777993",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "美宣称拟对中国人工智能企业开展调查并实施制裁，中方回应",
+          "url": "https://www.cls.cn/detail/2438053",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "真逗,DeepSeek说要去吃饭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356554&amp;topic_name=%E7%9C%9F%E9%80%97%2CDeepSeek%E8%AF%B4%E8%A6%81%E5%8E%BB%E5%90%83%E9%A5%AD",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "芯片巨舰长鑫科技上市：一个人，一座城，与一个国家的存储产业十年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33663468",
+          "source": "澎湃新闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时59分"
+          "time_info": "08时04分"
         },
         {
-          "title": "乌军袭击商船引发爆炸，伊朗发表声明谴责",
-          "url": "https://news.ifeng.com/c/8v4SrzgNUdY",
-          "source": "凤凰网",
+          "title": "长鑫科技上市首日暴涨465%，成交破1400亿！创业板大涨3%，算力硬件午后拉升，恒科指涨逾1%，小米大涨超7%",
+          "url": "https://wallstreetcn.com/articles/3777980",
+          "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时59分"
+          "time_info": "08时04分"
         },
         {
-          "title": "甘肃渭源山洪发生前市、县曾发气象预警，目前救援处置工作仍在进行",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33663621",
-          "source": "澎湃新闻",
+          "title": "安徽卫视播AI剧 明确标注AI制作",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86%E6%92%ADAI%E5%89%A7+%E6%98%8E%E7%A1%AE%E6%A0%87%E6%B3%A8AI%E5%88%B6%E4%BD%9C",
+          "source": "百度热搜",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时59分"
+          "time_info": "08时04分"
         },
         {
-          "title": "据沙特媒体哈达斯（Alhadath）：伊拉克安全消息人士称，国际联军防空系统在埃尔比勒机场附近击落一架无人机，无人员伤亡或财产损失。",
-          "url": "https://flash.jin10.com/detail/20260727074704248800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "重庆彭水救援现场发现失联中巴残骸",
-          "url": "https://www.toutiao.com/trending/7666646939391639615/",
-          "source": "今日头条",
+          "title": "美股收盘：阿斯麦、英伟达领衔“芯片风暴” 苹果重返全球市值第一",
+          "url": "https://www.cls.cn/detail/2438385",
+          "source": "财联社热门",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时59分"
+          "time_info": "08时04分"
         },
         {
-          "title": "韩股74万亿抛售警报解除：国民年金7月意外转为净买入，SK海力士获大举加仓",
-          "url": "https://wallstreetcn.com/articles/3777950",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "台风红霞将带来超级暴雨",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8F%B0%E9%A3%8E%E7%BA%A2%E9%9C%9E%E5%B0%86%E5%B8%A6%E6%9D%A5%E8%B6%85%E7%BA%A7%E6%9A%B4%E9%9B%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "据伊拉克媒体报道，在伊拉克北部的埃尔比勒市听到了数起剧烈爆炸声。目前尚不清楚爆炸的具体性质。",
-          "url": "https://flash.jin10.com/detail/20260727074357386800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "甘肃山洪救援人员：30多辆车冲成一堆",
-          "url": "https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E5%B1%B1%E6%B4%AA%E6%95%91%E6%8F%B4%E4%BA%BA%E5%91%98%EF%BC%9A30%E5%A4%9A%E8%BE%86%E8%BD%A6%E5%86%B2%E6%88%90%E4%B8%80%E5%A0%86",
-          "source": "百度热搜",
+          "title": "各个行业被AI取代的概率",
+          "url": "https://s.weibo.com/weibo?q=%E5%90%84%E4%B8%AA%E8%A1%8C%E4%B8%9A%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E7%9A%84%E6%A6%82%E7%8E%87&t=31&band_rank=8&Refer=top",
+          "source": "微博",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时59分"
+          "time_info": "08时04分"
         },
         {
-          "title": "第一视角记录台风红霞来袭",
-          "url": "https://www.douyin.com/hot/2585552",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "甘肃山洪情侣被冲走 所幸被货车拦住",
-          "url": "https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E5%B1%B1%E6%B4%AA%E6%83%85%E4%BE%A3%E8%A2%AB%E5%86%B2%E8%B5%B0+%E6%89%80%E5%B9%B8%E8%A2%AB%E8%B4%A7%E8%BD%A6%E6%8B%A6%E4%BD%8F",
+          "title": "美股上演芯片风暴 苹果重返市值第一",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%8A%E6%BC%94%E8%8A%AF%E7%89%87%E9%A3%8E%E6%9A%B4+%E8%8B%B9%E6%9E%9C%E9%87%8D%E8%BF%94%E5%B8%82%E5%80%BC%E7%AC%AC%E4%B8%80",
           "source": "百度热搜",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时59分"
+          "time_info": "08时04分"
         },
         {
-          "title": "甘肃发布暴雨黄色预警",
-          "url": "https://www.douyin.com/hot/2586389",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "视频丨甘肃渭源一景区发生山洪灾害，已致10人遇难23人受伤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33662993",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "台风红霞最新路径",
-          "url": "https://www.douyin.com/hot/2584497",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "甘肃渭源一景区山洪已致 10 人遇难，23 人受伤，现场已完成四轮搜救，目前情况如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2064783855282643631",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "甘肃一景区发生山洪致10死23伤",
-          "url": "https://www.toutiao.com/trending/7666768911483863091/",
+          "title": "佛得角门将签约泪洒现场？图是AI的",
+          "url": "https://www.toutiao.com/trending/7666819334011584518/",
           "source": "今日头条",
           "ranks": [
-            13
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时59分"
+          "time_info": "08时04分"
         },
         {
-          "title": "九寨沟突发泥石流 大批游客滞留",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%9D%E5%AF%A8%E6%B2%9F%E7%AA%81%E5%8F%91%E6%B3%A5%E7%9F%B3%E6%B5%81+%E5%A4%A7%E6%89%B9%E6%B8%B8%E5%AE%A2%E6%BB%9E%E7%95%99",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "美国防部：美军因伊朗战事累计伤亡642人",
-          "url": "https://wallstreetcn.com/livenews/3139881",
+          "title": "贝莱德避开AI债券滑铁卢，123亿美元债务发行受追捧",
+          "url": "https://wallstreetcn.com/livenews/3140555",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时59分"
+          "time_info": "08时04分"
         },
         {
-          "title": "甘肃省渭源县一景区发生山洪灾害，已造成3人遇难",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33662831",
-          "source": "澎湃新闻",
+          "title": "外媒丑化Kimi创始人惹众怒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356529&amp;topic_name=%E5%A4%96%E5%AA%92%E4%B8%91%E5%8C%96Kimi%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%83%B9%E4%BC%97%E6%80%92",
+          "source": "贴吧",
           "ranks": [
-            15
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时59分"
+          "time_info": "08时04分"
         },
         {
-          "title": "台风红霞登陆,深夜横扫广东",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356509&amp;topic_name=%E5%8F%B0%E9%A3%8E%E7%BA%A2%E9%9C%9E%E7%99%BB%E9%99%86%2C%E6%B7%B1%E5%A4%9C%E6%A8%AA%E6%89%AB%E5%B9%BF%E4%B8%9C",
+          "title": "OpenAI失控入侵,遭索赔1亿算力",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
           "source": "贴吧",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时59分"
+          "time_info": "08时04分"
         },
         {
-          "title": "重庆彭水发现失联中巴车残骸",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%8F%91%E7%8E%B0%E5%A4%B1%E8%81%94%E4%B8%AD%E5%B7%B4%E8%BD%A6%E6%AE%8B%E9%AA%B8%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
+          "title": "全网厌恶AI脸，但这个被裁掉的女孩绕过了“恐怖谷”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33662866",
+          "source": "澎湃新闻",
           "ranks": [
-            16
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时59分"
+          "time_info": "08时04分"
         },
         {
-          "title": "伊媒：一油轮在霍尔木兹海峡触雷爆炸",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E5%AA%92%EF%BC%9A%E4%B8%80%E6%B2%B9%E8%BD%AE%E5%9C%A8%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E8%A7%A6%E9%9B%B7%E7%88%86%E7%82%B8",
+          "title": "高通机器人瘫倒 被盖上黑布抬走",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E9%80%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%98%AB%E5%80%92+%E8%A2%AB%E7%9B%96%E4%B8%8A%E9%BB%91%E5%B8%83%E6%8A%AC%E8%B5%B0",
           "source": "百度热搜",
           "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "台风“红霞”登陆惠州，志愿者偶遇风中骑摩托车的市民，主动表示：“我送你回家”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33662332",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "甘肃渭源一景区发生山洪，已致10死23伤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33663056",
-          "source": "澎湃新闻",
-          "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "香港天文台发布红色暴雨警告。",
-          "url": "https://wallstreetcn.com/livenews/3139864",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "九寨沟景区发生泥石流致游客滞留",
-          "url": "https://www.douyin.com/hot/2586201",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "甘肃渭源山洪已致10死23伤",
-          "url": "https://www.douyin.com/hot/2586159",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "上海德比赛后4名球迷打架 警方通报",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%BE%B7%E6%AF%94%E8%B5%9B%E5%90%8E4%E5%90%8D%E7%90%83%E8%BF%B7%E6%89%93%E6%9E%B6+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "九寨沟景区通报泥石流致游客滞留",
-          "url": "https://www.toutiao.com/trending/7666413116233629738/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI 人工智能 大模型 AIGC ChatGPT Claude OpenAI DeepSeek Kimi 智谱 文心 通义 算力 芯片 机器人 人形机器人 自动驾驶 智能驾驶 机器学习 推理模型 多模态",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "Kimi K3再引关注，瑞银：中国模型的结构性成本优势有望长期保持",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33660556",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
+          "time_info": "08时04分"
         },
         {
           "title": "侵权零成本!电竞选手遭AI换脸",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356525&amp;topic_name=%E4%BE%B5%E6%9D%83%E9%9B%B6%E6%88%90%E6%9C%AC%21%E7%94%B5%E7%AB%9E%E9%80%89%E6%89%8B%E9%81%ADAI%E6%8D%A2%E8%84%B8",
           "source": "贴吧",
           "ranks": [
-            3
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时59分"
+          "time_info": "08时04分"
         },
         {
-          "title": "日方拆解宇树机器人后坦言：我们短期内恐怕赶不上中国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33660990",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "黄仁勋、马斯克同日发声：中国的人工智能注定卓越 将成为全球领导者",
-          "url": "https://www.cls.cn/detail/2437146",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "知情人士称，英伟达正就为OpenAI俄亥俄州数据中心项目提供约2500亿美元财务担保进行谈判。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3139891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "AI还要跌多久",
-          "url": "https://wallstreetcn.com/articles/3777943",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "不要长期向AI倾泻心事",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E9%95%BF%E6%9C%9F%E5%90%91AI%E5%80%BE%E6%B3%BB%E5%BF%83%E4%BA%8B&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "日本技术员拆完宇树机器人，当场破防",
-          "url": "https://news.ifeng.com/c/8v4eso1qejg",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "英伟达拟为OpenAI数据中心项目提供2500亿美元财务担保",
-          "url": "https://flash.jin10.com/detail/20260727072716929800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "据华尔街日报：知情人士称，英伟达(NVDA.O)正就为OpenAI俄亥俄州数据中心项目提供约2500亿美元财务担保进行谈判。",
-          "url": "https://flash.jin10.com/detail/20260727072121648800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
-          "url": "https://www.cls.cn/detail/2437061",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "AI短剧《被裁掉的女孩》播放破2亿",
-          "url": "https://www.toutiao.com/trending/7665929964277006363/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "日本机器人格斗赛没开打就撞门跑路",
-          "url": "https://www.toutiao.com/trending/7666289625798905398/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "AI冲击短剧行业 “戏王”也扛不住了",
-          "url": "https://www.baidu.com/s?wd=AI%E5%86%B2%E5%87%BB%E7%9F%AD%E5%89%A7%E8%A1%8C%E4%B8%9A+%E2%80%9C%E6%88%8F%E7%8E%8B%E2%80%9D%E4%B9%9F%E6%89%9B%E4%B8%8D%E4%BD%8F%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "日本机器人格斗赛没开打就撞门跑路",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%A0%BC%E6%96%97%E8%B5%9B%E6%B2%A1%E5%BC%80%E6%89%93%E5%B0%B1%E6%92%9E%E9%97%A8%E8%B7%91%E8%B7%AF",
-          "source": "百度热搜",
+          "title": "全球AI竞争将如何发展",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%90%83AI%E7%AB%9E%E4%BA%89%E5%B0%86%E5%A6%82%E4%BD%95%E5%8F%91%E5%B1%95",
+          "source": "bilibili 热搜",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时59分"
+          "time_info": "08时04分"
         },
         {
-          "title": "谁还没跳ACAI拖拉机舞",
-          "url": "https://www.douyin.com/hot/2586099",
-          "source": "抖音",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "日本如何评价宇树机器人",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "bilibili 热搜",
+          "title": "Anthropic澄清立场：从未主张禁止开放权重AI模型",
+          "url": "https://flash.jin10.com/detail/20260728061037912800",
+          "source": "金十数据",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时59分"
+          "time_info": "08时04分"
         },
         {
-          "title": "中国AI反超,老美急眼下黑手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
-          "source": "贴吧",
+          "title": "日方拆完宇树机器人后认输了",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%96%B9%E6%8B%86%E5%AE%8C%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%90%8E%E8%AE%A4%E8%BE%93%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时59分"
+          "time_info": "08时04分"
         },
         {
-          "title": "一家三口AI识菇中毒4岁女童进ICU",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3AI%E8%AF%86%E8%8F%87%E4%B8%AD%E6%AF%924%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%BF%9BICU%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
+          "title": "翻唱老歌火爆全网 神秘歌手是AI吗",
+          "url": "https://www.baidu.com/s?wd=%E7%BF%BB%E5%94%B1%E8%80%81%E6%AD%8C%E7%81%AB%E7%88%86%E5%85%A8%E7%BD%91+%E7%A5%9E%E7%A7%98%E6%AD%8C%E6%89%8B%E6%98%AFAI%E5%90%97",
+          "source": "百度热搜",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时59分"
+          "time_info": "08时04分"
         }
       ]
     },
     {
-      "keyword_group": "国务院 发改委 财政部 央行 教育部 卫健委通报 政策发布 新规 通知",
-      "match_count": 3,
+      "keyword_group": "突发 事故 火灾 爆炸 地震 洪水 山洪 泥石流 暴雨 台风 强对流 预警 警报 通报 伤亡 遇难 失联 救援 抢险 坍塌",
+      "match_count": 10,
       "titles": [
         {
-          "title": "下周全球瞩目！美日央行利率决议+MAG7与存储巨头财报+国内重磅会议+长鑫挂牌",
-          "url": "https://wallstreetcn.com/articles/3777856",
-          "source": "华尔街见闻",
+          "title": "网红景区10人遇难 三次预警为何失效",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E6%99%AF%E5%8C%BA10%E4%BA%BA%E9%81%87%E9%9A%BE+%E4%B8%89%E6%AC%A1%E9%A2%84%E8%AD%A6%E4%B8%BA%E4%BD%95%E5%A4%B1%E6%95%88",
+          "source": "百度热搜",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时59分"
+          "time_info": "08时04分"
         },
         {
-          "title": "本周重要事件与数据预告：美联储领衔“超级央行周”，海力士、Meta等科技股财报与PCE通胀数据轮番登场",
-          "url": "https://flash.jin10.com/detail/20260727070041894800",
-          "source": "金十数据",
+          "title": "台风白海豚将成超强台风",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%B0%86%E6%88%90%E8%B6%85%E5%BC%BA%E5%8F%B0%E9%A3%8E",
+          "source": "bilibili 热搜",
           "ranks": [
-            16
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时59分"
+          "time_info": "08时04分"
         },
         {
-          "title": "媒体：A股交易新规更好满足投资者",
-          "url": "https://www.toutiao.com/trending/7666957100584697898/",
+          "title": "网红景区10人遇难 3次预警为何失效",
+          "url": "https://www.toutiao.com/trending/7667355494197235209/",
           "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "保供稳价 猪肉价格 粮食 粮价 油价 菜价上涨 食品抽检 市场监管 食品安全通报",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "下周“加息”并非“天方夜谭”？飙升的油价、“不给指引”的沃什，这都让市场紧张",
-          "url": "https://wallstreetcn.com/articles/3777938",
-          "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时59分"
+          "time_info": "08时04分"
         },
         {
-          "title": "【早报】长鑫科技，今日上市；美暂停打击伊朗；油价大跌、黄金反弹；宁德时代启动A股史上最大规模回购",
-          "url": "https://www.cls.cn/detail/2437313",
-          "source": "财联社热门",
+          "title": "父子景区划桨板遇台风落水爸爸去世",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B6%E5%AD%90%E6%99%AF%E5%8C%BA%E5%88%92%E6%A1%A8%E6%9D%BF%E9%81%87%E5%8F%B0%E9%A3%8E%E8%90%BD%E6%B0%B4%E7%88%B8%E7%88%B8%E5%8E%BB%E4%B8%96%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
           "ranks": [
-            11
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时59分"
+          "time_info": "08时04分"
+        },
+        {
+          "title": "唐山大地震50周年",
+          "url": "https://www.baidu.com/s?wd=%E5%94%90%E5%B1%B1%E5%A4%A7%E5%9C%B0%E9%9C%8750%E5%91%A8%E5%B9%B4",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "“白海豚”或将发展为超强台风",
+          "url": "https://www.douyin.com/hot/2587164",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "唐山大地震50周年",
+          "url": "https://s.weibo.com/weibo?q=%E5%94%90%E5%B1%B1%E5%A4%A7%E5%9C%B0%E9%9C%8750%E5%91%A8%E5%B9%B4&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "男子带俩娃划桨板 遇台风落水去世",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%B8%A6%E4%BF%A9%E5%A8%83%E5%88%92%E6%A1%A8%E6%9D%BF+%E9%81%87%E5%8F%B0%E9%A3%8E%E8%90%BD%E6%B0%B4%E5%8E%BB%E4%B8%96",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "台风后女子海滩捡上百斤金鲳鱼",
+          "url": "https://www.toutiao.com/trending/7667038151755431982/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "市场消息：乌克兰首都基辅传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260728055324565800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "民生 就业 社保 医保 医疗 教育 高考 中考 养老 住房 租房 房价 公积金 交通 地铁 公交 物价 菜价 电价 水价 燃气 食品安全",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "成都教育局回应“中考立定跳远等标准过高”：符合部委相关要求",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33663750",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "英国7月BRC商店物价指数年率 0.9%，前值1.20%。",
+          "url": "https://flash.jin10.com/detail/20260728070201912800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国务院 发改委 财政部 央行 教育部 卫健委通报 政策发布 新规 通知",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国联邦航空管理局（FAA）：提议出台新规，要求航空公司修复座椅问题。",
+          "url": "https://flash.jin10.com/detail/20260728074015869800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "美财政部威胁制裁中国模型，硅谷 200 家企业联名反对，硅谷的态度反弹说明了什么？",
+          "url": "https://www.zhihu.com/question/2064030510549054193",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         }
       ]
     },
@@ -626,77 +417,60 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "金十数据中心工具",
-          "url": "https://flash.jin10.com/detail/20260727075151568800",
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少19.68吨，当前持仓量为15024.77吨。欢迎点击查看数据中心...",
+          "url": "https://flash.jin10.com/detail/20260728060257788800",
           "source": "金十数据",
           "ranks": [
-            2
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时59分"
+          "time_info": "08时04分"
         },
         {
-          "title": "伊朗打击亚马逊数据中心，卫星图像公布",
-          "url": "https://www.cls.cn/detail/2437013",
+          "title": "基本半导体港交所公告：本公司与承包商就建造碳化硅模块封装产线基地项目订立工程总承包合约。 据此，承包商同意承接本公司碳化硅模块封装产线基地的工程，合约价格总价为人民币1.933亿元。",
+          "url": "https://wallstreetcn.com/livenews/3140536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "卫健委 疾控 传染病 流感 诺如 手足口 疫情通报 药品集采 医改 医院",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "模特脸变鞋拔子,卫健委介入",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356541&amp;topic_name=%E6%A8%A1%E7%89%B9%E8%84%B8%E5%8F%98%E9%9E%8B%E6%8B%94%E5%AD%90%2C%E5%8D%AB%E5%81%A5%E5%A7%94%E4%BB%8B%E5%85%A5",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "保供稳价 猪肉价格 粮食 粮价 油价 菜价上涨 食品抽检 市场监管 食品安全通报",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美伊暂停交火提振市场情绪 美股期指上涨 油价大幅回落 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2438191",
           "source": "财联社热门",
           "ranks": [
-            9
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "民生 就业 社保 医保 医疗 教育 高考 中考 养老 住房 租房 房价 公积金 交通 地铁 公交 物价 菜价 电价 水价 燃气 食品安全",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据与胡塞武装有关联的Al Masirah电视台：也门交通部长穆罕默德·阿亚什·卡希姆表示，沙特入侵行动中对也门港口造成的损失总额已超过120亿美元。",
-          "url": "https://flash.jin10.com/detail/20260727074530024800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "警方通报 警方提醒 网警提醒 诈骗 电诈 刑案 案件 嫌疑人 抓获 破案",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "柏林车辆冲撞人群事件嫌疑人被击毙",
-          "url": "https://www.baidu.com/s?wd=%E6%9F%8F%E6%9E%97%E8%BD%A6%E8%BE%86%E5%86%B2%E6%92%9E%E4%BA%BA%E7%BE%A4%E4%BA%8B%E4%BB%B6%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E5%87%BB%E6%AF%99",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国际热点 冲突升级 停火谈判 外交部回应 联合国 地缘冲突 边境局势 制裁 军演",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "欧盟宣布 4 年来最大规模对俄制裁，170 家实体被列为制裁对象，哪些信息值得关注？可能会有哪些影响？",
-          "url": "https://www.zhihu.com/question/2064374902241453287",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
+          "time_info": "08时04分"
         }
       ]
     }
