@@ -1,531 +1,525 @@
 {
-  "generated_at": "2026-08-05T08:02:54.307834+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-08-06T08:01:53.124953+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "AI 人工智能 大模型 AIGC ChatGPT Claude OpenAI DeepSeek Kimi 智谱 文心 通义 算力 芯片 机器人 人形机器人 自动驾驶 智能驾驶 机器学习 推理模型 多模态",
-      "match_count": 18,
-      "titles": [
-        {
-          "title": "美伊缓和叠加财报季提振，标普、道指齐创新高，芯片指数大涨6%，油价重挫",
-          "url": "https://wallstreetcn.com/articles/3778638",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "L3、L4级自动驾驶“强标”明年7月实施 明确安全主体责任、接管机制",
-          "url": "https://www.cls.cn/detail/2445436",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "SpaceX将独家采用英伟达AI计算架构，拟部署太空数据中心",
-          "url": "https://flash.jin10.com/detail/20260805072402482800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "创业板暴涨超5.6%，算力硬件全线反攻、光通信\"满屏涨停\"，医药股爆发、药明康德涨停，半导体强劲反弹",
-          "url": "https://wallstreetcn.com/articles/3778628",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "AI投资的逻辑变了：云厂进入收租时代，基础设施产业链承压",
-          "url": "https://wallstreetcn.com/articles/3778632",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "Anthropic再豪掷100亿美元锁定算力，英伟达支持的新贵接单",
-          "url": "https://wallstreetcn.com/articles/3778669",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "【每日收评】创业板指高开高走涨超5%，AI应用持续活跃，算力硬件卷土重来",
-          "url": "https://www.cls.cn/detail/2445244",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778691",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "澳大利亚7月AIG/PWC制造业表现指数 -19.6，前值-16.8。",
-          "url": "https://flash.jin10.com/detail/20260805070003293800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "AI做题吊打日本名校状元",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356770&amp;topic_name=AI%E5%81%9A%E9%A2%98%E5%90%8A%E6%89%93%E6%97%A5%E6%9C%AC%E5%90%8D%E6%A0%A1%E7%8A%B6%E5%85%83",
-          "source": "贴吧",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "澳大利亚7月AIG建筑业表现指数 -40.6，前值-38.1。",
-          "url": "https://flash.jin10.com/detail/20260805070003280800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
-          "url": "https://www.zhihu.com/question/2066578072997049748",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "自动驾驶系统安全强制性国标发布",
-          "url": "https://www.douyin.com/hot/2597328",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "OpenAI降价,老日高喊中国万岁",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
-          "source": "贴吧",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "报道：美国告知AI企业，将不对开放权重模型进行安全测试",
-          "url": "https://wallstreetcn.com/livenews/3144979",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "美股存储芯片指数收涨超6.7%，闪迪、泰瑞达涨超10%，超大规模云服务商板块四天涨约16%",
-          "url": "https://wallstreetcn.com/livenews/3144978",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "DeepSeek斩杀了谁",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%A9%E6%9D%80%E4%BA%86%E8%B0%81",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "英伟达美股盘后涨2%，马斯克此前在电话会上谈及SpaceX算力计划。",
-          "url": "https://wallstreetcn.com/livenews/3144976",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "突发 事故 火灾 爆炸 地震 洪水 山洪 泥石流 暴雨 台风 强对流 预警 警报 通报 伤亡 遇难 失联 救援 抢险 坍塌",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
-          "title": "白海豚再次变成超强台风",
-          "url": "https://www.douyin.com/hot/2597733",
-          "source": "抖音",
+          "title": "广东雷州通报“特教老师招聘存在违规”：启动问责程序，副校长被停职",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33722151",
+          "source": "澎湃新闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时02分"
+          "time_info": "08时01分"
         },
         {
-          "title": "台风白海豚加强并西调",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%8A%A0%E5%BC%BA%E5%B9%B6%E8%A5%BF%E8%B0%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "邯郸中院通报“女子举报执行局长骚扰索贿”：不当言论录音属实，涉事局长停职",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33711711",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "超强台风白海豚奔袭华东",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B6%85%E5%BC%BA%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%A5%94%E8%A2%AD%E5%8D%8E%E4%B8%9C",
+          "title": "台风鲸鱼和灿鸿先后生成",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8F%B0%E9%A3%8E%E9%B2%B8%E9%B1%BC%E5%92%8C%E7%81%BF%E9%B8%BF%E5%85%88%E5%90%8E%E7%94%9F%E6%88%90",
           "source": "bilibili 热搜",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时02分"
+          "time_info": "08时01分"
         },
         {
-          "title": "河南通报三支一扶作弊案，查实作弊的考生会受到哪些处罚？内外串通舞弊会追究刑事责任吗？",
-          "url": "https://www.zhihu.com/question/2067614260688053419",
-          "source": "知乎",
+          "title": "预拨3.3亿元支持8省市抢险救灾",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A2%84%E6%8B%A83.3%E4%BA%BF%E5%85%83%E6%94%AF%E6%8C%818%E7%9C%81%E5%B8%82%E6%8A%A2%E9%99%A9%E6%95%91%E7%81%BE%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时02分"
+          "time_info": "08时01分"
+        },
+        {
+          "title": "官方通报传销头目出狱办书院",
+          "url": "https://www.toutiao.com/trending/7670445084701343787/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "台风白海豚大概率登陆浙江",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%A4%A7%E6%A6%82%E7%8E%87%E7%99%BB%E9%99%86%E6%B5%99%E6%B1%9F%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "直击台风“白海豚”实时路径",
+          "url": "https://www.toutiao.com/trending/7670377565785312811/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "菲律宾因暴雨暂停政府公务与学校课程。",
+          "url": "https://wallstreetcn.com/livenews/3145653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "今年第14号台风鲸鱼生成",
+          "url": "https://www.douyin.com/hot/2597885",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "“新疆喀什8.5级地震”系谣言",
+          "url": "https://www.toutiao.com/trending/7670396561460953107/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "新疆疏附县发生8.5级地震系谣言",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E7%96%8F%E9%99%84%E5%8E%BF%E5%8F%91%E7%94%9F8.5%E7%BA%A7%E5%9C%B0%E9%9C%87%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "台风白海豚或吞并台风鲸鱼",
+          "url": "https://www.douyin.com/hot/2598069",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "南太行山失联女孩最后信号不在山林",
+          "url": "https://www.toutiao.com/trending/7669982259626180650/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "美国疾控中心（CDC）通报345例沙门氏菌病例，其中36例住院。 93%的确诊病例与墨西哥餐厅连锁有关。",
+          "url": "https://wallstreetcn.com/livenews/3145639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
         },
         {
           "title": "村支书李杨防汛时遇难",
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%91%E6%94%AF%E4%B9%A6%E6%9D%8E%E6%9D%A8%E9%98%B2%E6%B1%9B%E6%97%B6%E9%81%87%E9%9A%BE",
           "source": "bilibili 热搜",
           "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "四预警齐发！双台风影响多个海域",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E9%A2%84%E8%AD%A6%E9%BD%90%E5%8F%91%EF%BC%81%E5%8F%8C%E5%8F%B0%E9%A3%8E%E5%BD%B1%E5%93%8D%E5%A4%9A%E4%B8%AA%E6%B5%B7%E5%9F%9F",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI 人工智能 大模型 AIGC ChatGPT Claude OpenAI DeepSeek Kimi 智谱 文心 通义 算力 芯片 机器人 人形机器人 自动驾驶 智能驾驶 机器学习 推理模型 多模态",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "一图看懂｜多家A股公司，跨界算力签大单",
+          "url": "https://www.cls.cn/detail/2446404",
+          "source": "财联社热门",
+          "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时02分"
+          "time_info": "08时01分"
         },
         {
-          "title": "哈尔滨暴雨多地积水",
-          "url": "https://www.douyin.com/hot/2597475",
-          "source": "抖音",
+          "title": "SpaceX电话会：剑指美国“第四大运营商”，或提前实现万亿收入目标，芯片锁定英伟达",
+          "url": "https://wallstreetcn.com/articles/3778694",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "亚洲多策略对冲基金7月出现大幅回撤，因AI概念股遭遇猛烈抛售",
+          "url": "https://wallstreetcn.com/livenews/3145658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "【焦点复盘】AI硬件端持续回暖，科创50指数连续2日涨逾4%，光模块龙头5日内2度刷新历史天量",
+          "url": "https://www.cls.cn/detail/2446407",
+          "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时02分"
+          "time_info": "08时01分"
         },
         {
-          "title": "女子举报法院执行局长骚扰索贿，官方通报通话录音确系本人，已停职，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2067920572915216640",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "王钟雪崩中遇难 好友含泪讲述细节",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E9%92%9F%E9%9B%AA%E5%B4%A9%E4%B8%AD%E9%81%87%E9%9A%BE+%E5%A5%BD%E5%8F%8B%E5%90%AB%E6%B3%AA%E8%AE%B2%E8%BF%B0%E7%BB%86%E8%8A%82",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "山体雪崩,登山队全员遇难",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356747&amp;topic_name=%E5%B1%B1%E4%BD%93%E9%9B%AA%E5%B4%A9%2C%E7%99%BB%E5%B1%B1%E9%98%9F%E5%85%A8%E5%91%98%E9%81%87%E9%9A%BE",
-          "source": "贴吧",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "暴雨蓝色预警：11省份有大到暴雨",
-          "url": "https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E8%93%9D%E8%89%B2%E9%A2%84%E8%AD%A6%EF%BC%9A11%E7%9C%81%E4%BB%BD%E6%9C%89%E5%A4%A7%E5%88%B0%E6%9A%B4%E9%9B%A8",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "乌克兰首都传出连续爆炸声 基辅市长称遭弹道导弹袭击",
-          "url": "https://wallstreetcn.com/livenews/3144981",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "阿根廷队长为西班牙火灾捐款",
-          "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%98%9F%E9%95%BF%E4%B8%BA%E8%A5%BF%E7%8F%AD%E7%89%99%E7%81%AB%E7%81%BE%E6%8D%90%E6%AC%BE&t=31&band_rank=24&Refer=top",
+          "title": "美国禁止进口中国机器人",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E7%A6%81%E6%AD%A2%E8%BF%9B%E5%8F%A3%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
-            24
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体 芯片 算力 数据中心 通信 5G 新能源 光伏 储能 电动车",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美国拟禁止进口中国新型数据中心设备，我使馆：敦促美停止抹黑中企并威胁制裁",
-          "url": "https://wallstreetcn.com/articles/3778674",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
+          "time_info": "08时01分"
         },
         {
-          "title": "美股收盘：标普500再创历史新高 光通信、存储涨幅居前",
-          "url": "https://www.cls.cn/detail/2445760",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "外媒称美国拟禁止进口中国新型数据中心设备，此举将对中美科技竞争及全球数据产业带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2068088684528791862",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "Meta盯上卫星通信！商业航天概念股趁势起飞",
-          "url": "https://www.cls.cn/detail/2445721",
+          "title": "“存储ETF”创纪录爆火后，幕后推手再押AI光通信赛道",
+          "url": "https://www.cls.cn/detail/2446788",
           "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时02分"
+          "time_info": "08时01分"
         },
         {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上一交易日减少6.41吨，当前持仓量为15130.82吨。欢迎点击查看数据中心...",
-          "url": "https://flash.jin10.com/detail/20260805064714696800",
+          "title": "外资机构密集发声，AI资本开支拐点隐现",
+          "url": "https://wallstreetcn.com/livenews/3145647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "华夏出版社标注「书籍内容禁用于 AI 训练」，这种标注实际约束力有多大？能作为维权依据吗？",
+          "url": "https://www.zhihu.com/question/2068056227817284742",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "当没有人再谈论AI",
+          "url": "https://www.toutiao.com/trending/7670659420547714601/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "加量又加价，算力产业服务大单不断",
+          "url": "https://wallstreetcn.com/livenews/3145638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "Meta旗下AI入侵一公司系统",
+          "url": "https://flash.jin10.com/detail/20260806062228967800",
           "source": "金十数据",
           "ranks": [
-            17
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "保供稳价 猪肉价格 粮食 粮价 油价 菜价上涨 食品抽检 市场监管 食品安全通报",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "【早报】美股半导体、存储、光通信，集体爆发；油价大跌、黄金走强；SpaceX、AMD财报出炉；大基金三期出手！入股正芯半导体",
-          "url": "https://www.cls.cn/detail/2445802",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
+          "time_info": "08时01分"
         },
         {
-          "title": "油价跌幅扩大至4%！贝森特：明日美伊或达成协议以开放霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3778667",
-          "source": "华尔街见闻",
+          "title": "报道：继OpenAI、Anthropic之后，Meta的AI模型也入侵其他公司的系统",
+          "url": "https://wallstreetcn.com/livenews/3145632",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时02分"
+          "time_info": "08时01分"
         },
         {
-          "title": "国际油价走低！卡塔尔、美方接连释放外交信号，霍尔木兹海峡重开预期升温",
-          "url": "https://wallstreetcn.com/articles/3778661",
-          "source": "华尔街见闻",
+          "title": "AI做题吊打日本名校状元",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356770&amp;topic_name=AI%E5%81%9A%E9%A2%98%E5%90%8A%E6%89%93%E6%97%A5%E6%9C%AC%E5%90%8D%E6%A0%A1%E7%8A%B6%E5%85%83",
+          "source": "贴吧",
           "ranks": [
-            8
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时02分"
+          "time_info": "08时01分"
         }
       ]
     },
     {
       "keyword_group": "民生 就业 社保 医保 医疗 教育 高考 中考 养老 住房 租房 房价 公积金 交通 地铁 公交 物价 菜价 电价 水价 燃气 食品安全",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
         {
-          "title": "新西兰第二季度就业参与率 70.7%，预期70.3%，前值70.40%。",
-          "url": "https://flash.jin10.com/detail/20260805064503128800",
-          "source": "金十数据",
+          "title": "李亚鹏向地铁吐血女孩捐99999元",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BA%9A%E9%B9%8F%E5%90%91%E5%9C%B0%E9%93%81%E5%90%90%E8%A1%80%E5%A5%B3%E5%AD%A9%E6%8D%9099999%E5%85%83%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "“小非农”不及预期！美国7月ADP就业仅增4.4万人，创年内最低，周五非农数据成关键",
+          "url": "https://wallstreetcn.com/articles/3778760",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "李亚鹏向地铁吐血女孩捐99999元",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E4%BA%9A%E9%B9%8F%E5%90%91%E5%9C%B0%E9%93%81%E5%90%90%E8%A1%80%E5%A5%B3%E5%AD%A9%E6%8D%9099999%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "一对俄罗斯双胞胎在上海地铁站跳芭蕾",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%AF%B9%E4%BF%84%E7%BD%97%E6%96%AF%E5%8F%8C%E8%83%9E%E8%83%8E%E5%9C%A8%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E7%AB%99%E8%B7%B3%E8%8A%AD%E8%95%BE",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "44 岁爸爸因叛逆期女儿说「有本事你去考个研究生」，在职一战上岸 985，怎样看待这种教育方式？",
+          "url": "https://www.zhihu.com/question/2068288018167882727",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "李亚鹏向地铁吐血女孩捐99999元",
+          "url": "https://www.toutiao.com/trending/7670496020695859238/",
+          "source": "今日头条",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "新西兰第二季度就业人数季率 0.5%，预期0.2%，前值由0.20%修正为0.10%。",
-          "url": "https://flash.jin10.com/detail/20260805064502871800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
+          "time_info": "08时01分"
         }
       ]
     },
     {
-      "keyword_group": "国务院 发改委 财政部 央行 教育部 卫健委通报 政策发布 新规 通知",
-      "match_count": 2,
+      "keyword_group": "国际热点 冲突升级 停火谈判 外交部回应 联合国 地缘冲突 边境局势 制裁 军演",
+      "match_count": 6,
       "titles": [
         {
-          "title": "央行将开展5000亿元买断式逆回购 8月流动性面临两大扰动",
-          "url": "https://www.cls.cn/detail/2445625",
+          "title": "美国拟禁止进口中国产新型光收发模块，外交部回应",
+          "url": "https://www.cls.cn/detail/2446527",
           "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时02分"
+          "time_info": "08时01分"
         },
         {
-          "title": "国务院成立重庆山体崩塌调查评估组",
-          "url": "https://www.douyin.com/hot/2597381",
-          "source": "抖音",
+          "title": "联合国：当前热浪仅是气候危机开端",
+          "url": "https://www.baidu.com/s?wd=%E8%81%94%E5%90%88%E5%9B%BD%EF%BC%9A%E5%BD%93%E5%89%8D%E7%83%AD%E6%B5%AA%E4%BB%85%E6%98%AF%E6%B0%94%E5%80%99%E5%8D%B1%E6%9C%BA%E5%BC%80%E7%AB%AF",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "外交部回应日本将中国列为最大挑战",
+          "url": "https://www.toutiao.com/trending/7670542721295191579/",
+          "source": "今日头条",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时02分"
+          "time_info": "08时01分"
+        },
+        {
+          "title": "联合国教科文组织确认北京为2029年“世界建筑之都”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33723954",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "士兵怕嗑牙,美国制裁洽洽瓜子",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356797&amp;topic_name=%E5%A3%AB%E5%85%B5%E6%80%95%E5%97%91%E7%89%99%2C%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%E6%B4%BD%E6%B4%BD%E7%93%9C%E5%AD%90",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "美国为何要制裁洽洽瓜子",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E8%A6%81%E5%88%B6%E8%A3%81%E6%B4%BD%E6%B4%BD%E7%93%9C%E5%AD%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
         }
       ]
     },
     {
-      "keyword_group": "国际热点 冲突升级 停火谈判 外交部回应 联合国 地缘冲突 边境局势 制裁 军演",
-      "match_count": 1,
+      "keyword_group": "半导体 芯片 算力 数据中心 通信 5G 新能源 光伏 储能 电动车",
+      "match_count": 3,
       "titles": [
         {
-          "title": "玩脱了,解说内涵Shy哥遭制裁",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356731&amp;topic_name=%E7%8E%A9%E8%84%B1%E4%BA%86%2C%E8%A7%A3%E8%AF%B4%E5%86%85%E6%B6%B5Shy%E5%93%A5%E9%81%AD%E5%88%B6%E8%A3%81",
-          "source": "贴吧",
+          "title": "A股三大股指均涨超1%，科创50暴涨近5%，半导体大爆发，“易中天”集体回应美国光模块禁令，恒科指涨1%",
+          "url": "https://wallstreetcn.com/articles/3778711",
+          "source": "华尔街见闻",
           "ranks": [
-            28
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时02分"
+          "time_info": "08时01分"
+        },
+        {
+          "title": "金十数据中心工具",
+          "url": "https://flash.jin10.com/detail/20260806075331768800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "日股半导体链集中放榜：PCB、MLCC、玻纤布板块捷报频传",
+          "url": "https://www.cls.cn/detail/2446641",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "卫健委 疾控 传染病 流感 诺如 手足口 疫情通报 药品集采 医改 医院",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "被错换37年女子起诉医院：本不需辍学",
+          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E9%94%99%E6%8D%A237%E5%B9%B4%E5%A5%B3%E5%AD%90%E8%B5%B7%E8%AF%89%E5%8C%BB%E9%99%A2%EF%BC%9A%E6%9C%AC%E4%B8%8D%E9%9C%80%E8%BE%8D%E5%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
         }
       ]
     }
