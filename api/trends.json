@@ -1,568 +1,435 @@
 {
-  "generated_at": "2026-08-13T07:41:33.311542+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-08-15T07:21:44.043314+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "AI 人工智能 大模型 AIGC ChatGPT Claude OpenAI DeepSeek Kimi 智谱 文心 通义 算力 芯片 机器人 人形机器人 自动驾驶 智能驾驶 机器学习 推理模型 多模态",
-      "match_count": 26,
+      "keyword_group": "突发 事故 火灾 爆炸 地震 洪水 山洪 泥石流 暴雨 台风 强对流 预警 警报 通报 伤亡 遇难 失联 救援 抢险 坍塌",
+      "match_count": 19,
       "titles": [
         {
-          "title": "DeepSeek Pro 正式版已经发布，如何评价该模型？",
-          "url": "https://www.zhihu.com/question/2071014727606703118",
-          "source": "知乎",
+          "title": "台风白海豚杀了个“回马枪”",
+          "url": "https://www.toutiao.com/trending/7673088324894015529/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "欧洲地中海地震中心：将印度尼西亚弗洛勒斯地区地震震级从7.4级修订至6.9级。",
+          "url": "https://flash.jin10.com/detail/20260815060713633800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "欧洲地中海地震中心：印度尼西亚弗洛勒斯地区发生7.4级地震。",
+          "url": "https://flash.jin10.com/detail/20260815060509869800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时41分"
+          "time_info": "07时21分"
         },
         {
-          "title": "腾讯Q2营收同比增长11%超预期，算力采购大幅推高资本开支至527.8亿元，自由现金流转负 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779275",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "中国人形机器人一骑绝尘",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%80%E9%AA%91%E7%BB%9D%E5%B0%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "CoreWeave向投资者发出警告，若需从英伟达芯片转向其他芯片将面临困难，可能需要投入大量时间和资金。",
-          "url": "https://flash.jin10.com/detail/20260813071055836800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "DeepSeek重磅更新 V4Pro正式版上线",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E9%87%8D%E7%A3%85%E6%9B%B4%E6%96%B0+V4Pro%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "CoreWeave新增风险提示：若需从英伟达芯片转向其他芯片将面临困难",
-          "url": "https://wallstreetcn.com/livenews/3148787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "DeepSeek V4 Pro正式版上线",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Pro%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "算力租赁、光通信利好不断 美国7月CPI平稳落地 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2452722",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "路透调查显示，超过80%的日本企业仅部分使用或根本不使用人工智能。",
-          "url": "https://flash.jin10.com/detail/20260813070104983800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "光速关服,AI虚拟歌姬停运",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "腾讯电话会：AI投入回报空间已现，WorkBuddy毛利率已显著改善，算力出租为“安全垫”",
-          "url": "https://wallstreetcn.com/articles/3779299",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "大幅增加算力采购！腾讯看到AI变现的曙光了？",
-          "url": "https://www.cls.cn/detail/2452579",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "路透调查显示，超过一半的日本企业计划在近期增加人工智能预算，31%的企业尚未决定。",
-          "url": "https://flash.jin10.com/detail/20260813070049622800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "【每日收评】双创指数均涨超1%，算力硬件股全线反弹，房地产板块异军突起",
-          "url": "https://www.cls.cn/detail/2452399",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "马斯克最新讲话：五年后AI占SpaceX价值99%，我们必须取得AI的胜利！",
-          "url": "https://wallstreetcn.com/articles/3779250",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "【早报】美AI概念股飙升；原油微涨、黄金走高；央行：及时谋划出台务实管用的增量政策",
-          "url": "https://www.cls.cn/detail/2452911",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "如何看待杨奇回应《黑神话：钟馗》进度「设计阶段会远离 AIGC 工具，诺兰的奥德赛也是古法创作」？",
-          "url": "https://www.zhihu.com/question/2070508935673378471",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "腾讯算力采购大增 单季资本开支528亿元同比升176% 即将发布Hy4|财报解读",
-          "url": "https://www.cls.cn/detail/2452763",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "据悉苹果洽谈向出版商付费，以提升其人工智能Siri",
-          "url": "https://flash.jin10.com/detail/20260813064006751800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "据华尔街日报：消息人士透露，苹果(AAPL.O)已讨论一项数亿美元的预算，用于向一批出版商支付Siri人工智能合作协议的费用。",
-          "url": "https://flash.jin10.com/detail/20260813063512720800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "荣耀发布首款机器人手机 9999元起售",
-          "url": "https://www.baidu.com/s?wd=%E8%8D%A3%E8%80%80%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA+9999%E5%85%83%E8%B5%B7%E5%94%AE",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "据华尔街日报：消息人士透露，苹果(AAPL.O)正寻求与出版商达成新协议，以便使用其内容开发人工智能语音助手Siri。",
-          "url": "https://flash.jin10.com/detail/20260813063348828800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "DeepSeek发布V4Pro正式版",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%8F%91%E5%B8%83V4Pro%E6%AD%A3%E5%BC%8F%E7%89%88%23&t=31&band_rank=18&Refer=top",
+          "title": "台风白海豚",
+          "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
-            18
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时41分"
+          "time_info": "07时21分"
         },
         {
-          "title": "英伟达最新开源大模型上线",
-          "url": "https://www.douyin.com/hot/2607298",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5",
-          "url": "https://wallstreetcn.com/livenews/3148768",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "MSCI中国旗舰指数调整：新纳入智谱等33只标的",
-          "url": "https://flash.jin10.com/detail/20260813054538402800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "突发 事故 火灾 爆炸 地震 洪水 山洪 泥石流 暴雨 台风 强对流 预警 警报 通报 伤亡 遇难 失联 救援 抢险 坍塌",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "新台风浪卡生成",
-          "url": "https://www.douyin.com/hot/2606819",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "男子独闯南太行失联 救援人员发声",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%8B%AC%E9%97%AF%E5%8D%97%E5%A4%AA%E8%A1%8C%E5%A4%B1%E8%81%94+%E6%95%91%E6%8F%B4%E4%BA%BA%E5%91%98%E5%8F%91%E5%A3%B0",
+          "title": "暴雨洪涝过后 喝水千万别大意",
+          "url": "https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E6%B4%AA%E6%B6%9D%E8%BF%87%E5%90%8E+%E5%96%9D%E6%B0%B4%E5%8D%83%E4%B8%87%E5%88%AB%E5%A4%A7%E6%84%8F",
           "source": "百度热搜",
           "ranks": [
-            9
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时41分"
+          "time_info": "07时21分"
         },
         {
-          "title": "上海安徽这些涉暴雨信息是谣言",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%AE%89%E5%BE%BD%E8%BF%99%E4%BA%9B%E6%B6%89%E6%9A%B4%E9%9B%A8%E4%BF%A1%E6%81%AF%E6%98%AF%E8%B0%A3%E8%A8%80",
+          "title": "江浙为何又出现特大暴雨",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B1%9F%E6%B5%99%E4%B8%BA%E4%BD%95%E5%8F%88%E5%87%BA%E7%8E%B0%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "长三角警惕极端暴雨",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E4%B8%89%E8%A7%92%E8%AD%A6%E6%83%95%E6%9E%81%E7%AB%AF%E6%9A%B4%E9%9B%A8",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "洪水泡过的饮料擦干净就能喝不实",
+          "url": "https://www.toutiao.com/trending/7673858248382139913/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "许昌暴雨60万人断水停电系谣言",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%B8%E6%98%8C%E6%9A%B4%E9%9B%A860%E4%B8%87%E4%BA%BA%E6%96%AD%E6%B0%B4%E5%81%9C%E7%94%B5%E7%B3%BB%E8%B0%A3%E8%A8%80",
           "source": "百度热搜",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时41分"
+          "time_info": "07时21分"
         },
         {
-          "title": "上海安徽这些涉暴雨信息是谣言",
-          "url": "https://www.toutiao.com/trending/7673112268309122569/",
-          "source": "今日头条",
+          "title": "湖南一煤矿发生瓦斯突出事故",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B9%96%E5%8D%97%E4%B8%80%E7%85%A4%E7%9F%BF%E5%8F%91%E7%94%9F%E7%93%A6%E6%96%AF%E7%AA%81%E5%87%BA%E4%BA%8B%E6%95%85",
+          "source": "bilibili 热搜",
           "ranks": [
-            12
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时41分"
+          "time_info": "07时21分"
         },
         {
-          "title": "暴雨黄色预警！湖北、安徽、江苏、浙江、广东等地局地有大暴雨",
-          "url": "https://wallstreetcn.com/livenews/3148777",
-          "source": "华尔街见闻-快讯",
+          "title": "水利部升级发布洪水黄色预警",
+          "url": "https://www.douyin.com/hot/2609723",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "太湖流域发生流域性较大洪水",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AA%E6%B9%96%E6%B5%81%E5%9F%9F%E5%8F%91%E7%94%9F%E6%B5%81%E5%9F%9F%E6%80%A7%E8%BE%83%E5%A4%A7%E6%B4%AA%E6%B0%B4%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时41分"
+          "time_info": "07时21分"
         },
         {
-          "title": "女生泰国失联,疑被卖电诈区",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357133&amp;topic_name=%E5%A5%B3%E7%94%9F%E6%B3%B0%E5%9B%BD%E5%A4%B1%E8%81%94%2C%E7%96%91%E8%A2%AB%E5%8D%96%E7%94%B5%E8%AF%88%E5%8C%BA",
-          "source": "贴吧",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "长征7号甲火箭发射失败爆炸",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357110&amp;topic_name=%E9%95%BF%E5%BE%817%E5%8F%B7%E7%94%B2%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E5%A4%B1%E8%B4%A5%E7%88%86%E7%82%B8",
-          "source": "贴吧",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "哥伦比亚强震遇难人数升至241人",
-          "url": "https://wallstreetcn.com/livenews/3148764",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "辽宁省挂牌督办朝阳市3死中毒事故",
-          "url": "https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E7%9C%81%E6%8C%82%E7%89%8C%E7%9D%A3%E5%8A%9E%E6%9C%9D%E9%98%B3%E5%B8%823%E6%AD%BB%E4%B8%AD%E6%AF%92%E4%BA%8B%E6%95%85",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "北京全市大雨到暴雨 8区现大暴雨",
-          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%85%A8%E5%B8%82%E5%A4%A7%E9%9B%A8%E5%88%B0%E6%9A%B4%E9%9B%A8+8%E5%8C%BA%E7%8E%B0%E5%A4%A7%E6%9A%B4%E9%9B%A8",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国务院 发改委 财政部 央行 教育部 卫健委通报 政策发布 新规 通知",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "中共中央 全国人大常委会 国务院 全国政协讣告朱镕基同志逝世",
-          "url": "https://wallstreetcn.com/articles/3779286",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33769071",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
-          "url": "https://www.cls.cn/detail/2452533",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
-          "url": "https://zhuanlan.zhihu.com/p/2070933430993414087",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "微信群聊可以彻底关闭通知了",
-          "url": "https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1%E7%BE%A4%E8%81%8A%E5%8F%AF%E4%BB%A5%E5%BD%BB%E5%BA%95%E5%85%B3%E9%97%AD%E9%80%9A%E7%9F%A5%E4%BA%86&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "央行：综合运用并适时调整货币政策工具 保持流动性充裕和社会融资条件相对宽松",
-          "url": "https://www.cls.cn/detail/2452559",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "央行将开展隔夜逆回购操作",
-          "url": "https://www.douyin.com/hot/2607310",
+          "title": "许昌暴雨60万人断水停电系谣言",
+          "url": "https://www.douyin.com/hot/2609870",
           "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "江浙特大暴雨 白海豚怎么还没走",
+          "url": "https://www.baidu.com/s?wd=%E6%B1%9F%E6%B5%99%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8+%E7%99%BD%E6%B5%B7%E8%B1%9A%E6%80%8E%E4%B9%88%E8%BF%98%E6%B2%A1%E8%B5%B0",
+          "source": "百度热搜",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时41分"
+          "time_info": "07时21分"
         },
         {
-          "title": "委内瑞拉央行：7月份通胀水平达到19.9%。",
-          "url": "https://flash.jin10.com/detail/20260813054226379800",
-          "source": "金十数据",
+          "title": "宁德福安一船厂发生火灾，23岁消防员池坷杰不幸牺牲",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33780632",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "山西一医院通报实习护士晒患者隐私照：终止其实习资格，问责科室责任人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33784353",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "邓紫棋嘉兴演唱会暴雨中开唱",
+          "url": "https://www.douyin.com/hot/2610083",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "窑洞突然坍塌瞬间掩埋小院 当地回应",
+          "url": "https://www.baidu.com/s?wd=%E7%AA%91%E6%B4%9E%E7%AA%81%E7%84%B6%E5%9D%8D%E5%A1%8C%E7%9E%AC%E9%97%B4%E6%8E%A9%E5%9F%8B%E5%B0%8F%E9%99%A2+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "小伙坐5小时高铁下车突发深静脉血栓",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E5%9D%905%E5%B0%8F%E6%97%B6%E9%AB%98%E9%93%81%E4%B8%8B%E8%BD%A6%E7%AA%81%E5%8F%91%E6%B7%B1%E9%9D%99%E8%84%89%E8%A1%80%E6%A0%93",
+          "source": "百度热搜",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时41分"
+          "time_info": "07时21分"
         }
       ]
     },
     {
-      "keyword_group": "半导体 芯片 算力 数据中心 通信 5G 新能源 光伏 储能 电动车",
-      "match_count": 5,
+      "keyword_group": "AI 人工智能 大模型 AIGC ChatGPT Claude OpenAI DeepSeek Kimi 智谱 文心 通义 算力 芯片 机器人 人形机器人 自动驾驶 智能驾驶 机器学习 推理模型 多模态",
+      "match_count": 19,
       "titles": [
         {
-          "title": "新能源汽车新车销量占比首超60%",
-          "url": "https://www.toutiao.com/trending/7673110698733637130/",
+          "title": "近日，富国基金旗下全资子公司富国资产管理（香港）有限公司获银河国际证券（新加坡）有限公司委任为投资顾问，为一只聚焦新加坡本地中小市值股票的主动管理型权益ETF提供选股支持。该产品已启动发行，预计后续将在新加坡交易所主板挂牌。 富国香港依托富国基金基本面与AI双轮驱动的量化模型体系，为该ETF提供选股决策支持。本次合作是公募基金“出海”模式升级的具体体现，表明中资资管机构在境外市场正逐步向能力端的投研服务者延伸。（证券日报）",
+          "url": "https://wallstreetcn.com/livenews/3149895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "人工智能激活力 “新”意盎然促发展",
+          "url": "https://www.toutiao.com/trending/7673797019718598698/",
           "source": "今日头条",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时41分"
+          "time_info": "07时21分"
         },
         {
-          "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
-          "url": "https://wallstreetcn.com/articles/3779257",
+          "title": "中行落地全国首个算力“Token贷”，算力金融跨入应用层企业，上下游联动成未来方向",
+          "url": "https://www.cls.cn/detail/2454822",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "美股指小幅收跌，存储芯片股普涨，闪迪涨超7%，金油齐涨，美债跌",
+          "url": "https://wallstreetcn.com/articles/3779437",
           "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时41分"
+          "time_info": "07时21分"
         },
         {
-          "title": "美股收盘：CPI如期放缓削弱加息预期 存储、光通信、新云板块齐飞",
-          "url": "https://www.cls.cn/detail/2452897",
-          "source": "财联社热门",
+          "title": "中国AI把价格打下来，美国巨头一口气降80%",
+          "url": "https://news.ifeng.com/c/8vaN8Ao6xPg",
+          "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时41分"
+          "time_info": "07时21分"
         },
         {
-          "title": "新能源汽车迎来两个“首次”突破",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%BF%8E%E6%9D%A5%E4%B8%A4%E4%B8%AA%E2%80%9C%E9%A6%96%E6%AC%A1%E2%80%9D%E7%AA%81%E7%A0%B4",
-          "source": "百度热搜",
+          "title": "如何评价北京协和医院住院医用 AI 解决了困扰数学界的难题 Crouzeix 猜想？",
+          "url": "https://www.zhihu.com/question/2071486982732223991",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "英伟达CPO交换机全面量产，AI数据中心迈入“硅光时代”！",
+          "url": "https://wallstreetcn.com/articles/3779448",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "自动驾驶都用激光雷达等以后自动驾驶车多起来了，路上的激光雷达会不会相互干扰？",
+          "url": "https://www.zhihu.com/question/455107544",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "DeepSeek Harness实测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "俱往矣!DeepSeek大幅涨价",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
+          "url": "https://wallstreetcn.com/articles/3779418",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "发力中国市场！据称苹果训练了一款“中国定制”大模型，开启AI双轨布局",
+          "url": "https://www.cls.cn/detail/2454596",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "围棋与境界、修养之类的东西毫无关系，能赢是因为计算力强，这么明显的道理在 AI 以前人们怎么不懂？",
+          "url": "https://www.zhihu.com/question/2068917345393940011",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "美国少年杀死母亲、弟弟，被指用ChatGPT策划",
+          "url": "https://news.ifeng.com/c/8vaHkh2o1IS",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "【焦点复盘】创业板指强势收复30日线，算力租赁概念再度爆发，光通信人气股录得20cm五连板",
+          "url": "https://www.cls.cn/detail/2454650",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "戚薇推出数字分身，成为首位内娱开放 AI 授权的艺人，明星拥抱数字分身将带来哪些新变化？",
+          "url": "https://www.zhihu.com/question/2068993919958742400",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "AI给假网,吧友中招银狐病毒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357340&amp;topic_name=AI%E7%BB%99%E5%81%87%E7%BD%91%2C%E5%90%A7%E5%8F%8B%E4%B8%AD%E6%8B%9B%E9%93%B6%E7%8B%90%E7%97%85%E6%AF%92",
+          "source": "贴吧",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时41分"
+          "time_info": "07时21分"
         },
         {
-          "title": "\"光通信巨头\"Coherent业绩与指引全面超越市场预期",
-          "url": "https://wallstreetcn.com/livenews/3148765",
-          "source": "华尔街见闻-快讯",
+          "title": "用AI给小时候的自己做头像",
+          "url": "https://www.douyin.com/hot/2608882",
+          "source": "抖音",
           "ranks": [
-            25
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时41分"
+          "time_info": "07时21分"
+        },
+        {
+          "title": "甲骨文：AI数据中心园区项目朱庇特计划仍按计划推进，我们将继续与合作伙伴密切合作，推动该项目向前发展。甲骨文跌幅收窄，现跌3.5%，此前一度跌4.7%。",
+          "url": "https://wallstreetcn.com/livenews/3149866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         }
       ]
     },
@@ -571,37 +438,93 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "据媒体报道部分手机壳疑似采用废弃针管等医疗垃圾加工而成，真的吗？对健康会有多大危害？消费者该如何辨别？",
-          "url": "https://www.zhihu.com/question/2070066925363619123",
-          "source": "知乎",
+          "title": "砸钱30万,中考生700分上职校",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357458&amp;topic_name=%E7%A0%B8%E9%92%B130%E4%B8%87%2C%E4%B8%AD%E8%80%83%E7%94%9F700%E5%88%86%E4%B8%8A%E8%81%8C%E6%A0%A1",
+          "source": "贴吧",
           "ranks": [
-            3
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时41分"
+          "time_info": "07时21分"
         },
         {
-          "title": "英国7月三个月RICS房价指数 -30，预期 -30，前值 -33。",
-          "url": "https://wallstreetcn.com/livenews/3148785",
+          "title": "税务部门回应社保实缴问题",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%A8%8E%E5%8A%A1%E9%83%A8%E9%97%A8%E5%9B%9E%E5%BA%94%E7%A4%BE%E4%BF%9D%E5%AE%9E%E7%BC%B4%E9%97%AE%E9%A2%98%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "日本暴雨中国游客无奈地铁站过夜",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9A%B4%E9%9B%A8%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%97%A0%E5%A5%88%E5%9C%B0%E9%93%81%E7%AB%99%E8%BF%87%E5%A4%9C%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "卫健委 疾控 传染病 流感 诺如 手足口 疫情通报 药品集采 医改 医院",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "河南一传染病医院被淹",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E4%BC%A0%E6%9F%93%E7%97%85%E5%8C%BB%E9%99%A2%E8%A2%AB%E6%B7%B9",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "宁德时代：维修电池我们是三甲医院",
+          "url": "https://www.toutiao.com/trending/7673834555819769898/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国务院 发改委 财政部 央行 教育部 卫健委通报 政策发布 新规 通知",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "央行将发行江泽民诞辰100周年纪念币",
+          "url": "https://www.cls.cn/detail/2454813",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "周五（8月14日）纽约尾盘，国际贵金属期货收盘涨跌不一。 现货黄金先跌后涨，日内涨幅0.6%，报4375.67美元/盎司，本周累计上涨0.81%。 COMEX黄金期货涨0.26%报4432.00美元/盎司，本周累计上涨0.73%。美国经济数据走弱令美联储加息预期降温，叠加中东局势不确定性，加上央行长期净增持黄金托底，共同支撑金价。 现货白银涨0.40%，报64.667美元/盎司，本周累涨超1.8%。 COMEX白银期货跌0.26%报64.83美元/盎司，本周累计上涨2.09%。",
+          "url": "https://wallstreetcn.com/livenews/3149887",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "英国7月三个月RICS房价指数 -30，预期-31，前值由-33.00修正为-32。",
-          "url": "https://flash.jin10.com/detail/20260813070102221800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
+          "time_info": "07时21分"
         }
       ]
     },
@@ -610,77 +533,43 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "油价五连涨后回落，市场聚焦霍尔木兹海峡及供应缺口",
-          "url": "https://flash.jin10.com/detail/20260813063037608800",
-          "source": "金十数据",
+          "title": "巴克莱：维持2026年布伦特原油价格预测为每桶96美元。",
+          "url": "https://wallstreetcn.com/livenews/3149893",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时41分"
+          "time_info": "07时21分"
         },
         {
-          "title": "美油主力合约收跌0.75%，报82.58美元/桶；布油主力合约跌0.6%，报88.38美元/桶。美国上周原油库存意外大幅增加1742.3万桶，远超出市场原本减少的预期，叠加欧佩克下调了全球原油需求增长预测，对油价形成压制。",
-          "url": "https://wallstreetcn.com/livenews/3148770",
-          "source": "华尔街见闻-快讯",
+          "title": "巴克莱：维持2026年布伦特原油价格预测为96美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260815053953991800",
+          "source": "金十数据",
           "ranks": [
-            21
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时41分"
+          "time_info": "07时21分"
         }
       ]
     },
     {
-      "keyword_group": "警方通报 警方提醒 网警提醒 诈骗 电诈 刑案 案件 嫌疑人 抓获 破案",
+      "keyword_group": "半导体 芯片 算力 数据中心 通信 5G 新能源 光伏 储能 电动车",
       "match_count": 1,
       "titles": [
         {
-          "title": "当地时间8月12日，据当地警方消息，美国佐治亚州休斯敦县一所高中12日发生一起枪击事件，造成至少两名学生受伤，嫌疑人已被拘留。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3148761",
-          "source": "华尔街见闻-快讯",
+          "title": "你愿意为电动车智能服务“续费”吗",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E6%84%BF%E6%84%8F%E4%B8%BA%E7%94%B5%E5%8A%A8%E8%BD%A6%E6%99%BA%E8%83%BD%E6%9C%8D%E5%8A%A1%E2%80%9C%E7%BB%AD%E8%B4%B9%E2%80%9D%E5%90%97",
+          "source": "百度热搜",
           "ranks": [
-            29
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "卫健委 疾控 传染病 流感 诺如 手足口 疫情通报 药品集采 医改 医院",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "卫健委介入17岁女孩流产监护人不知情",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%AB%E5%81%A5%E5%A7%94%E4%BB%8B%E5%85%A517%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%B5%81%E4%BA%A7%E7%9B%91%E6%8A%A4%E4%BA%BA%E4%B8%8D%E7%9F%A5%E6%83%85%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国际热点 冲突升级 停火谈判 外交部回应 联合国 地缘冲突 边境局势 制裁 军演",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "越权制裁国际刑事法院，特朗普被美国多家人权组织共同起诉",
-          "url": "https://news.ifeng.com/c/8vX5eliYwTC",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
+          "time_info": "07时21分"
         }
       ]
     }
