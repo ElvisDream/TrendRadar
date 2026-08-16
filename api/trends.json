@@ -1,66 +1,55 @@
 {
-  "generated_at": "2026-08-16T07:21:16.793190+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-17T07:19:57.048343+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 大模型 AIGC ChatGPT Claude OpenAI DeepSeek Kimi 智谱 文心 通义 算力 芯片 机器人 人形机器人 自动驾驶 智能驾驶 机器学习 推理模型 多模态",
-      "match_count": 21,
+      "match_count": 17,
       "titles": [
-        {
-          "title": "DeepSeek-V4-Pro-0813 已发布，体验下来怎么样？",
-          "url": "https://www.zhihu.com/question/2071619812795609447",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
-        },
-        {
-          "title": "美国大模型帮日本对AI进行投毒",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%B8%AE%E6%97%A5%E6%9C%AC%E5%AF%B9AI%E8%BF%9B%E8%A1%8C%E6%8A%95%E6%AF%92",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
-        },
-        {
-          "title": "博通一夜跌6%：AI的下一道坎，是融资成本",
-          "url": "https://wallstreetcn.com/articles/3779512",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
-        },
         {
           "title": "国产算力迎扩张浪潮：大厂“超预期”加码投资 产业链多环节开启扩产",
           "url": "https://www.cls.cn/detail/2455214",
           "source": "财联社热门",
           "ranks": [
-            4
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
+          "appearance_count": 1,
+          "time_info": "07时19分"
         },
         {
-          "title": "“AI版金融创新”：CDO vs CCO=2008 vs 2026？",
-          "url": "https://wallstreetcn.com/articles/3779499",
+          "title": "AI债务狂潮背后：700亿美元表外隐性负债引发债券投资者担忧",
+          "url": "https://wallstreetcn.com/articles/3779518",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
+          "url": "https://www.cls.cn/detail/2455237",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
+          "url": "https://wallstreetcn.com/articles/3779526",
           "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
+          "appearance_count": 1,
+          "time_info": "07时19分"
         },
         {
           "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
@@ -70,416 +59,402 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
+          "appearance_count": 1,
+          "time_info": "07时19分"
         },
         {
-          "title": "“AI版金融创新”：英伟达的“5000亿美元大算盘”",
-          "url": "https://wallstreetcn.com/articles/3779503",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
-        },
-        {
-          "title": "【早报】中行落地全国首个算力“Token贷”；贵州茅台、生益科技发布半年报；美存储板块走强",
-          "url": "https://www.cls.cn/detail/2455045",
+          "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
+          "url": "https://www.cls.cn/detail/2455353",
           "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
+          "appearance_count": 1,
+          "time_info": "07时19分"
         },
         {
-          "title": "SK 集团崔泰源警告 2027 年大概率会是存储芯片供应缺口最大的一年，内存、硬盘还要持续涨价吗？",
-          "url": "https://www.zhihu.com/question/2071746265390506374",
-          "source": "知乎",
+          "title": "AI打破存储盛衰周期！美光目标价迎大幅上调 市值看向3万亿美元",
+          "url": "https://www.cls.cn/detail/2455252",
+          "source": "财联社热门",
           "ranks": [
-            7
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
+          "appearance_count": 1,
+          "time_info": "07时19分"
         },
         {
-          "title": "最优“AI泡沫交易”：同时做多“傲慢”与“偏见”",
-          "url": "https://wallstreetcn.com/articles/3779514",
-          "source": "华尔街见闻",
+          "title": "南极冰川现“神秘生物”系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%97%E6%9E%81%E5%86%B0%E5%B7%9D%E7%8E%B0%E2%80%9C%E7%A5%9E%E7%A7%98%E7%94%9F%E7%89%A9%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
           "ranks": [
-            8
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "一条AI短片演绎时间焦虑",
+          "url": "https://www.douyin.com/hot/2612104",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "Anthropic CEO：击败AI怀疑论者的最好方式就是兑现炒作承诺",
+          "url": "https://flash.jin10.com/detail/20260817062707189800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "30美元1小时 机器人上门做保洁",
+          "url": "https://www.baidu.com/s?wd=30%E7%BE%8E%E5%85%831%E5%B0%8F%E6%97%B6+%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%8A%E9%97%A8%E5%81%9A%E4%BF%9D%E6%B4%81",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         },
         {
           "title": "大爷手搓AI长片赛博英雄传",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E7%88%B7%E6%89%8B%E6%90%93AI%E9%95%BF%E7%89%87%E8%B5%9B%E5%8D%9A%E8%8B%B1%E9%9B%84%E4%BC%A0",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
+          "appearance_count": 1,
+          "time_info": "07时19分"
         },
         {
-          "title": "a16z史上最大投资！All in Uber创始人，下注工业AI“从比特到原子”",
-          "url": "https://wallstreetcn.com/articles/3779510",
-          "source": "华尔街见闻",
+          "title": "明查｜南极冰川现“神秘生物”？AI又整活了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33792037",
+          "source": "澎湃新闻",
           "ranks": [
-            9
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
+          "appearance_count": 1,
+          "time_info": "07时19分"
         },
         {
-          "title": "60岁AI动画赛道新人",
-          "url": "https://www.douyin.com/hot/2610767",
-          "source": "抖音",
+          "title": "全球开源AI大洗牌 中国开源模型加速崛起",
+          "url": "https://wallstreetcn.com/livenews/3150072",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
+          "appearance_count": 1,
+          "time_info": "07时19分"
         },
         {
-          "title": "中行落地全国首个算力“Token贷”，算力金融跨入应用层企业，上下游联动成未来方向",
-          "url": "https://www.cls.cn/detail/2454822",
-          "source": "财联社热门",
+          "title": "AI正在批量制造“幽灵”",
+          "url": "https://www.baidu.com/s?wd=AI%E6%AD%A3%E5%9C%A8%E6%89%B9%E9%87%8F%E5%88%B6%E9%80%A0%E2%80%9C%E5%B9%BD%E7%81%B5%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            11
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
+          "appearance_count": 1,
+          "time_info": "07时19分"
         },
         {
-          "title": "俱往矣!DeepSeek大幅涨价",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
-          "source": "贴吧",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
-        },
-        {
-          "title": "DeepSeek Harness实测",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
+          "title": "AI如何能辅助办公",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E8%83%BD%E8%BE%85%E5%8A%A9%E5%8A%9E%E5%85%AC",
           "source": "bilibili 热搜",
           "ranks": [
-            28
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
+          "appearance_count": 1,
+          "time_info": "07时19分"
         },
         {
-          "title": "AI给假网,吧友中招银狐病毒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357340&amp;topic_name=AI%E7%BB%99%E5%81%87%E7%BD%91%2C%E5%90%A7%E5%8F%8B%E4%B8%AD%E6%8B%9B%E9%93%B6%E7%8B%90%E7%97%85%E6%AF%92",
-          "source": "贴吧",
+          "title": "多家银行竞推“算力贷”",
+          "url": "https://wallstreetcn.com/livenews/3150065",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国际热点 冲突升级 停火谈判 外交部回应 联合国 地缘冲突 边境局势 制裁 军演",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "“前所未见”的对伊制裁会打向哪里？美国正评估这些关键方向",
+          "url": "https://flash.jin10.com/detail/20260817071118280800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         },
         {
-          "title": "机构：AI“芯片通胀”正冲击英国经济",
-          "url": "https://flash.jin10.com/detail/20260816045317873800",
+          "title": "特朗普要求“大幅缩减”美韩军演规模",
+          "url": "https://wallstreetcn.com/livenews/3150092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "特朗普：“不满”美国早前同意参加与韩国的联合军演",
+          "url": "https://wallstreetcn.com/livenews/3150083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "特朗普要求“大幅减少”美韩军演：因成本高昂，还释放不当“敌意信号”",
+          "url": "https://flash.jin10.com/detail/20260817063335924800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时19分"
         },
         {
-          "title": "OpenAI Codex产品负责人：让Sol为你管理一支高效的Luna代理团队。这些模型彼此非常熟悉，能够通力合作，以惊人的速度和效率达成目标。",
-          "url": "https://flash.jin10.com/detail/20260816043254635800",
+          "title": "特朗普称要大幅缩减美韩联合军演",
+          "url": "https://flash.jin10.com/detail/20260817054805585800",
           "source": "金十数据",
           "ranks": [
-            14
+            21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时19分"
         },
         {
-          "title": "机构：债券交易员正为AI企业的“影子信贷”担保而忧心忡忡",
-          "url": "https://flash.jin10.com/detail/20260816034637477800",
+          "title": "特朗普：已要求大幅削减与韩国的联合军演规模",
+          "url": "https://flash.jin10.com/detail/20260817051255445800",
           "source": "金十数据",
           "ranks": [
-            18
+            24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "据TheInformation：英伟达(NVDA.O)正在洽谈向SB Energy投资30亿美元，作为OpenAI数据中心交易的一部分。",
-          "url": "https://flash.jin10.com/detail/20260816031526828800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时19分"
         }
       ]
     },
     {
       "keyword_group": "突发 事故 火灾 爆炸 地震 洪水 山洪 泥石流 暴雨 台风 强对流 预警 警报 通报 伤亡 遇难 失联 救援 抢险 坍塌",
-      "match_count": 16,
+      "match_count": 5,
       "titles": [
         {
-          "title": "日本千叶县暴雨已致9人死亡 超千栋房屋被淹",
-          "url": "https://flash.jin10.com/detail/20260816060133064800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "印尼7.7级地震死亡人数升至47人",
-          "url": "https://wallstreetcn.com/livenews/3150001",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "苏州暴雨太湖水倒灌 小区车库被淹",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%8F%E5%B7%9E%E6%9A%B4%E9%9B%A8%E5%A4%AA%E6%B9%96%E6%B0%B4%E5%80%92%E7%81%8C+%E5%B0%8F%E5%8C%BA%E8%BD%A6%E5%BA%93%E8%A2%AB%E6%B7%B9",
-          "source": "百度热搜",
+          "title": "民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33791922",
+          "source": "澎湃新闻",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
+          "appearance_count": 1,
+          "time_info": "07时19分"
         },
         {
-          "title": "印尼发生7.7级地震,40人遇难",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357704&amp;topic_name=%E5%8D%B0%E5%B0%BC%E5%8F%91%E7%94%9F7.7%E7%BA%A7%E5%9C%B0%E9%9C%87%2C40%E4%BA%BA%E9%81%87%E9%9A%BE",
-          "source": "贴吧",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
-        },
-        {
-          "title": "台风都走了 为何雨还下个不停",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E9%83%BD%E8%B5%B0%E4%BA%86+%E4%B8%BA%E4%BD%95%E9%9B%A8%E8%BF%98%E4%B8%8B%E4%B8%AA%E4%B8%8D%E5%81%9C",
+          "title": "无锡暴雨冲来大量河鱼",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A0%E9%94%A1%E6%9A%B4%E9%9B%A8%E5%86%B2%E6%9D%A5%E5%A4%A7%E9%87%8F%E6%B2%B3%E9%B1%BC",
           "source": "百度热搜",
           "ranks": [
-            15
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
+          "appearance_count": 1,
+          "time_info": "07时19分"
         },
         {
-          "title": "官方通报智残人员被拉去做眼部手术",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%99%BA%E6%AE%8B%E4%BA%BA%E5%91%98%E8%A2%AB%E6%8B%89%E5%8E%BB%E5%81%9A%E7%9C%BC%E9%83%A8%E6%89%8B%E6%9C%AF",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
-        },
-        {
-          "title": "苏州暴雨太湖水倒灌小区车库被淹",
-          "url": "https://www.toutiao.com/trending/7673544808044544042/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
-        },
-        {
-          "title": "一个49人的上市公司等待沈腾“救援”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA49%E4%BA%BA%E7%9A%84%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E7%AD%89%E5%BE%85%E6%B2%88%E8%85%BE%E2%80%9C%E6%95%91%E6%8F%B4%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
-        },
-        {
-          "title": "多部门会商部署重点地区防汛抢险工作",
-          "url": "https://wallstreetcn.com/livenews/3149991",
+          "title": "五角大楼平民伤亡估算报告被斥“彻头彻尾的骗局”",
+          "url": "https://wallstreetcn.com/livenews/3150075",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时19分"
         },
         {
-          "title": "巴布亚新几内亚北部海岸发生5.4级地震。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3149989",
+          "title": "58岁救援队长突发脑干出血不幸离世",
+          "url": "https://www.baidu.com/s?wd=58%E5%B2%81%E6%95%91%E6%8F%B4%E9%98%9F%E9%95%BF%E7%AA%81%E5%8F%91%E8%84%91%E5%B9%B2%E5%87%BA%E8%A1%80%E4%B8%8D%E5%B9%B8%E7%A6%BB%E4%B8%96",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "台风过后推开门我差点哭出来",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E8%BF%87%E5%90%8E%E6%8E%A8%E5%BC%80%E9%97%A8%E6%88%91%E5%B7%AE%E7%82%B9%E5%93%AD%E5%87%BA%E6%9D%A5%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "保供稳价 猪肉价格 粮食 粮价 油价 菜价上涨 食品抽检 市场监管 食品安全通报",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "周一亚市盘初，国际油价小幅走高，WTI原油期货现涨0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3150082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "超强厄尔尼诺即将来袭 小摩警告：明年或爆发全球粮食危机",
+          "url": "https://www.cls.cn/detail/2455265",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "小摩警告：明年或爆发全球粮食危机",
+          "url": "https://www.toutiao.com/trending/7673362199041179698/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "警方通报 警方提醒 网警提醒 诈骗 电诈 刑案 案件 嫌疑人 抓获 破案",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "榜一求陪睡遭拒,翻脸告诈骗",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357819&amp;topic_name=%E6%A6%9C%E4%B8%80%E6%B1%82%E9%99%AA%E7%9D%A1%E9%81%AD%E6%8B%92%2C%E7%BF%BB%E8%84%B8%E5%91%8A%E8%AF%88%E9%AA%97",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "重器新案件亡妻归来",
+          "url": "https://www.douyin.com/hot/2611705",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 芯片 算力 数据中心 通信 5G 新能源 光伏 储能 电动车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "下周重磅日程：中国7月经济数据，阿里、小米、天孚通信、兆易创新、长飞光纤财报，宇树科技上市在即",
+          "url": "https://wallstreetcn.com/articles/3779445",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "新能源冷藏车销量快速增长，冷链绿色转型提速",
+          "url": "https://wallstreetcn.com/livenews/3150076",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "市场消息：利比亚电力公司消息人士透露，哈尔沙电站部分机组在爆炸后停止运行。",
-          "url": "https://flash.jin10.com/detail/20260816040945131800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "印尼政府调拨5万份援助物资支援地震灾区",
-          "url": "https://wallstreetcn.com/livenews/3149988",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "印尼7.7级地震死亡人数升至40人",
-          "url": "https://wallstreetcn.com/livenews/3149986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "印尼北苏门答腊省发生6.8级地震",
-          "url": "https://wallstreetcn.com/livenews/3149980",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "深圳发布三预警，全市进入暴雨戒备状态",
-          "url": "https://wallstreetcn.com/livenews/3149979",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "水利部和中国气象局联合发布黄色山洪灾害气象预警",
-          "url": "https://wallstreetcn.com/livenews/3149977",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时19分"
         }
       ]
     },
     {
       "keyword_group": "民生 就业 社保 医保 医疗 教育 高考 中考 养老 住房 租房 房价 公积金 交通 地铁 公交 物价 菜价 电价 水价 燃气 食品安全",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "冲上热搜的地铁婚姻登记点：已开设两年，去年结婚登记数占所在县近一半",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33787822",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
-        },
         {
           "title": "英国地铁脏乱差,港星抬杠吃瘪",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357634&amp;topic_name=%E8%8B%B1%E5%9B%BD%E5%9C%B0%E9%93%81%E8%84%8F%E4%B9%B1%E5%B7%AE%2C%E6%B8%AF%E6%98%9F%E6%8A%AC%E6%9D%A0%E5%90%83%E7%98%AA",
           "source": "贴吧",
           "ranks": [
-            11
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
-        },
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "卫健委 疾控 传染病 流感 诺如 手足口 疫情通报 药品集采 医改 医院",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "普京首次登上南千岛群岛视察民生产业，高市早苗激烈抗议，称是日本固有领土，俄方强硬回击，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2071637658586165819",
-          "source": "知乎",
+          "title": "马上评｜医院“揽客”岂能突破底线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33791886",
+          "source": "澎湃新闻",
           "ranks": [
-            11
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
-        },
-        {
-          "title": "儿科韩医生事件，会不会造成全国的防御性医疗的开端和大面积的医护离职潮爆发？未来儿科医生的数量腰斩？",
-          "url": "https://www.zhihu.com/question/2069050672704705907",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
-        },
-        {
-          "title": "山西挖眼案男孩高考721分选了中医学",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E6%8C%96%E7%9C%BC%E6%A1%88%E7%94%B7%E5%AD%A9%E9%AB%98%E8%80%83721%E5%88%86%E9%80%89%E4%BA%86%E4%B8%AD%E5%8C%BB%E5%AD%A6%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
+          "appearance_count": 1,
+          "time_info": "07时19分"
         }
       ]
     },
@@ -488,66 +463,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "央行将发行江泽民诞辰100周年纪念币",
-          "url": "https://www.cls.cn/detail/2454813",
-          "source": "财联社热门",
+          "title": "加油新规11月起正式实施",
+          "url": "https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%B9%E6%96%B0%E8%A7%8411%E6%9C%88%E8%B5%B7%E6%AD%A3%E5%BC%8F%E5%AE%9E%E6%96%BD",
+          "source": "百度热搜",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "保供稳价 猪肉价格 粮食 粮价 油价 菜价上涨 食品抽检 市场监管 食品安全通报",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伊朗能源优化组织负责人：第一种方案中，汽油价格保持不变，但总分配量上限为1.21亿升，一旦用完，加油口将关闭。第二种方案中，每日生产的1.21亿升汽油将分配给各车辆，任何希望超出配额的人必须按自由市场价格购买汽油；第三种方案中，汽油配额分配给民众，每人每月30升，且允许进行配额转让、购买和出售。",
-          "url": "https://flash.jin10.com/detail/20260816050035901800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体 芯片 算力 数据中心 通信 5G 新能源 光伏 储能 电动车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "新一代通信网空天地海全覆盖",
-          "url": "https://www.douyin.com/hot/2611000",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国际热点 冲突升级 停火谈判 外交部回应 联合国 地缘冲突 边境局势 制裁 军演",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "联合国追加资金应对埃博拉疫情",
-          "url": "https://wallstreetcn.com/livenews/3149996",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时19分"
         }
       ]
     }
